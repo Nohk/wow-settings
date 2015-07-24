@@ -1,0 +1,25 @@
+
+TradeSkillMaster_AccountingDB = {
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["goldLog"] = {
+				["Nohkan"] = {
+					{
+						["endMinute"] = 23098696,
+						["copper"] = 0,
+						["startMinute"] = 23098693,
+					}, -- [1]
+				},
+			},
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source",
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

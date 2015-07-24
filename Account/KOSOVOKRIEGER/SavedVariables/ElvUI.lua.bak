@@ -1,0 +1,87 @@
+
+ElvDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Schakalakaa - Thrall",
+	},
+	["gold"] = {
+		["Thrall"] = {
+			["Schakalakaa"] = 44300093,
+		},
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profiles"] = {
+		["Schakalakaa - Thrall"] = {
+			["movers"] = {
+				["ElvUF_PlayerCastbarMover"] = "BOTTOMElvUIParentBOTTOM042",
+				["ElvUF_PlayerMover"] = "BOTTOMElvUIParentBOTTOM-278110",
+				["ElvUF_PetMover"] = "BOTTOMElvUIParentBOTTOM0150",
+				["BossButton"] = "BOTTOMElvUIParentBOTTOM0195",
+				["ElvUF_TargetTargetMover"] = "BOTTOMElvUIParentBOTTOM0110",
+				["ElvAB_2"] = "BOTTOMElvUIParentBOTTOM038",
+				["ElvUF_TargetMover"] = "BOTTOMElvUIParentBOTTOM278110",
+			},
+			["general"] = {
+				["backdropfadecolor"] = {
+					["b"] = 0.054,
+					["g"] = 0.054,
+					["r"] = 0.054,
+				},
+				["valuecolor"] = {
+					["b"] = 0.819,
+					["g"] = 0.513,
+					["r"] = 0.09,
+				},
+			},
+			["unitframe"] = {
+				["units"] = {
+					["player"] = {
+						["castbar"] = {
+							["width"] = 406,
+							["height"] = 28,
+						},
+					},
+				},
+				["colors"] = {
+					["auraBarBuff"] = {
+						["b"] = 0.1,
+						["g"] = 0.1,
+						["r"] = 0.1,
+					},
+					["health"] = {
+						["b"] = 0.1,
+						["g"] = 0.1,
+						["r"] = 0.1,
+					},
+					["castColor"] = {
+						["b"] = 0.1,
+						["g"] = 0.1,
+						["r"] = 0.1,
+					},
+				},
+			},
+			["datatexts"] = {
+				["panels"] = {
+					["LeftChatDataPanel"] = {
+						["right"] = "Haste",
+						["left"] = "Spell/Heal Power",
+					},
+				},
+			},
+			["layoutSet"] = "dpsCaster",
+		},
+	},
+}
+ElvPrivateDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Schakalakaa - Thrall",
+	},
+	["profiles"] = {
+		["Schakalakaa - Thrall"] = {
+			["theme"] = "default",
+			["install_complete"] = "6.5",
+		},
+	},
+}

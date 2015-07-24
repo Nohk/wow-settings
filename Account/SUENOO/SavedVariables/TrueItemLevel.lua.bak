@@ -1,0 +1,26 @@
+
+tilConfig = {
+	["showTil"] = true,
+	["timeout"] = 5,
+	["inspectFreq"] = 2,
+	["showSpec"] = true,
+	["showGlance"] = true,
+	["cacheSize"] = 1000,
+	["cacheAge"] = 604800,
+	["showIcon"] = true,
+	["debugMode"] = false,
+}
+cache = {
+	{
+		["stamp"] = 1381793557,
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "WARLOCK",
+		["mia"] = 15,
+		["name"] = "Nohkimon - Thrall",
+		["locked"] = "PLAYER",
+		["level"] = 90,
+		["tree"] = "Affliction",
+		["pvp"] = 0,
+	}, -- [1]
+}

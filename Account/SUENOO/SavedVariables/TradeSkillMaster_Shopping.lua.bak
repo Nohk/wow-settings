@@ -1,0 +1,27 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["global"] = {
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = 1,
+			["treesizable"] = true,
+			["treewidth"] = 175,
+			["fullwidth"] = 801,
+		},
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+			["dealfinding"] = {
+				["DealfindingList"] = {
+				},
+			},
+			["version"] = 1,
+		},
+	},
+}

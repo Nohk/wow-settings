@@ -1,0 +1,17 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["ReportingEnabled"] = {
+				["Nunae"] = true,
+			},
+			["MyToons"] = {
+				["Nunae"] = {
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,46 @@
+VER 3 0100000000000002 "60Talents" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Ring of Peace
+/use Charging Ox Wave
+/use Leg Sweep
+/run local G=GetSpellInfo SetMacroSpell("60Talents", G"Ring of Peace" or G"Charging Ox Wave" or G"Leg Sweep")
+END
+VER 3 0100000000000004 "75Talents" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Dampen Harm
+/use Diffuse Magic
+/run local G=GetSpellInfo SetMacroSpell("75Talents", G"Dampen Harm" or G"Diffuse Magic")
+END
+VER 3 010000000000012B "Dismiss Ox Statu" "132389"
+/click TotemFrameTotem1 RightButton
+END
+VER 3 0100000000000005 "Focus Interrupt" "PANDARENRACIAL_INNERPEACE"
+#showtooltip
+/cast [@focus,exists] Spear Hand Strike; Spear Hand Strike
+END
+VER 3 0100000000000001 "HealTalents" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@player] Chi Wave
+/use Zen Sphere
+/use Chi Burst
+/run local G=GetSpellInfo SetMacroSpell("HealTalents", G"Chi Wave" or G"Zen Sphere" or G"Chi Burst")
+END
+VER 3 010000000000012A "Serenity Spam" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Serenity
+/cast Blackout Kick
+/cast Purifying Brew
+END
+VER 3 0100000000000003 "Taunt dat Ass" "ABILITY_MONK_DPSSTANCE"
+/tar Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 010000000000012C "Xuen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Invoke Xuen, the White Tiger
+END
+VER 3 0100000000000129 "ZGVMacro2" "0"
+/target Master Hight
+/run ZGV:MRM()
+END

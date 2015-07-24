@@ -1,0 +1,91 @@
+
+AmrBagItems = {
+	"|cffffffff|Hitem:89112:0:0:0:0:0:0:554592256:89:0:0|h[Mote of Harmony]|h|r", -- [1]
+	"|cffffffff|Hitem:5956:0:0:0:0:0:0:0:89:0:0|h[Blacksmith Hammer]|h|r", -- [2]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:554592256:89:0:0|h[Windwool Cloth]|h|r", -- [3]
+	"|cffffffff|Hitem:72120:0:0:0:0:0:0:554592256:89:0:0|h[Exotic Leather]|h|r", -- [4]
+	"|cffffffff|Hitem:2901:0:0:0:0:0:0:0:89:0:0|h[Mining Pick]|h|r", -- [5]
+	"|cffffffff|Hitem:81405:0:0:0:0:0:0:1636720768:89:0:0|h[Boiled Silkworm Pupa]|h|r", -- [6]
+	"|cffffffff|Hitem:88370:0:0:0:0:0:0:1022508160:89:0:0|h[Puntable Marmot]|h|r", -- [7]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1636720768:89:0:0|h[Windwool Cloth]|h|r", -- [8]
+	"|cff1eff00|Hitem:81462:0:0:0:0:0:0:1815351168:89:0:0|h[Angkhal Robe]|h|r", -- [9]
+	"|cff0070dd|Hitem:81453:0:0:0:0:0:0:1392507520:89:0:0|h[Angkhal Amice]|h|r", -- [10]
+	"|cff1eff00|Hitem:88039:0:0:0:0:0:0:1261385856:89:0:0|h[Angkhal Shoes]|h|r", -- [11]
+	"|cffffffff|Hitem:79819:0:0:0:0:0:0:864301440:89:0:0|h[Dit Da Jow]|h|r", -- [12]
+	"|cffffffff|Hitem:74843:0:0:0:0:0:0:1990322816:89:0:0|h[Scallions]|h|r", -- [13]
+	"|cffffffff|Hitem:5512:0:0:0:0:0:0:344071040:89:0:0|h[Healthstone]|h|r", -- [14]
+	"|cffffffff|Hitem:79249:0:0:0:0:0:0:0:89:0:0|h[Tome of the Clear Mind]|h|r", -- [15]
+	"|cffffffff|Hitem:81403:0:0:0:0:0:0:1142277632:89:0:0|h[Dried Peaches]|h|r", -- [16]
+	"|cff1eff00|Hitem:81498:0:0:0:0:0:0:915229440:89:0:0|h[Angkhal Handguards]|h|r", -- [17]
+	"|cffffffff|Hitem:79249:0:0:0:0:0:0:0:89:0:0|h[Tome of the Clear Mind]|h|r", -- [18]
+	"|cff1eff00|Hitem:81782:0:0:0:0:0:0:1598454784:89:0:0|h[Gilded Fan Silk Treads]|h|r", -- [19]
+	"|cffffffff|Hitem:88377:0:0:0:0:0:0:520389760:89:0:0|h[Turnip Paint \"Gun\"]|h|r", -- [20]
+	"|cffffffff|Hitem:88375:0:0:0:0:0:0:1361509376:89:0:0|h[Turnip Punching Bag]|h|r", -- [21]
+	"|cffffffff|Hitem:88532:0:0:0:0:0:0:2095483904:89:0:0|h[Lotus Water]|h|r", -- [22]
+	"|cff1eff00|Hitem:82003:0:0:0:0:0:-42:1579876643:89:0:0|h[Intricate Spellblade of the Elder]|h|r", -- [23]
+	"|cff1eff00|Hitem:90547:0:0:0:0:0:0:1528775296:89:0:0|h[Lantern of Hope]|h|r", -- [24]
+	"|cffffffff|Hitem:62768:0:0:0:0:0:0:1943230208:89:0:0|h[Efficient Excavations]|h|r", -- [25]
+	"|cffffffff|Hitem:84105:0:0:0:0:0:0:2122946816:89:0:0|h[Fishy]|h|r", -- [26]
+	"|cffffffff|Hitem:63388:0:0:0:0:0:0:0:89:0:0|h[Dust of Disappearance]|h|r", -- [27]
+	"|cffffffff|Hitem:6948:0:0:0:0:0:0:1418698112:89:0:0|h[Hearthstone]|h|r", -- [28]
+	"|cffffffff|Hitem:52340:0:0:0:0:0:0:257914752:89:0:0|h[Abyssal Clam]|h|r", -- [29]
+	"|cffffffff|Hitem:62783:0:0:0:0:0:0:54639872:89:0:0|h[Basilisk \"Liver\"]|h|r", -- [30]
+	"|cffffffff|Hitem:62784:0:0:0:0:0:0:1215551232:89:0:0|h[Crocolisk Tail]|h|r", -- [31]
+	"|cffffffff|Hitem:43467:0:0:0:0:0:0:613805312:89:0:0|h[Scroll of Protection VII]|h|r", -- [32]
+	"|cff1eff00|Hitem:90542:0:0:0:0:0:0:89457280:89:0:0|h[Safari Journal]|h|r", -- [33]
+	"|cffffffff|Hitem:88580:0:0:0:0:0:0:1878284672:89:0:0|h[Ken-Ken's Mask]|h|r", -- [34]
+	"|cffffffff|Hitem:81407:0:0:0:0:0:0:1555019136:89:0:0|h[Four Wind Soju]|h|r", -- [35]
+	"|cffffffff|Hitem:81401:0:0:0:0:0:0:1009748864:89:0:0|h[Yak Cheese Curds]|h|r", -- [36]
+	"|cffffffff|Hitem:81406:0:0:0:0:0:0:0:89:0:0|h[Roasted Barley Tea]|h|r", -- [37]
+	"|cffffffff|Hitem:81406:0:0:0:0:0:0:1469830528:89:0:0|h[Roasted Barley Tea]|h|r", -- [38]
+	"|cffffffff|Hitem:81405:0:0:0:0:0:0:297182464:89:0:0|h[Boiled Silkworm Pupa]|h|r", -- [39]
+	"|cffffffff|Hitem:87266:0:0:0:0:0:0:844685824:89:0:0|h[Recipe: Banana Infused Rum]|h|r", -- [40]
+	"|cffffffff|Hitem:86432:0:0:0:0:0:0:844685824:89:0:0|h[Banana Infused Rum]|h|r", -- [41]
+	"|cffffffff|Hitem:81404:0:0:0:0:0:0:532845952:89:0:0|h[Dried Needle Mushrooms]|h|r", -- [42]
+	"|cff1eff00|Hitem:80822:0:0:0:0:0:0:1154735488:89:0:0|h[The Golden Banana]|h|r", -- [43]
+	"|cff1eff00|Hitem:81840:0:0:0:0:0:0:583531776:89:0:0|h[Dustback Cloak]|h|r", -- [44]
+	"|cff0070dd|Hitem:87608:0:0:0:0:0:0:1615092736:89:0:0|h[Korjan Mystic's Hood]|h|r", -- [45]
+	"|cffffffff|Hitem:88387:0:0:0:0:0:0:1279778688:89:0:0|h[Shushen's Spittoon]|h|r", -- [46]
+}
+AmrBankItems = {
+}
+AmrEquipedItems = {
+	["1"] = "|cff0070dd|Hitem:81746:0:0:0:0:0:0:1381017088:89:0:0|h[Gilded Fan Silk Cowl]|h|r",
+	["3"] = "|cff1eff00|Hitem:88091:0:0:0:0:0:0:56537856:89:0:0|h[Swampwalker Pauldrons]|h|r",
+	["2"] = "|cff1eff00|Hitem:81815:0:0:0:0:0:0:443468928:89:0:0|h[Jhuuroon's Collar]|h|r",
+	["5"] = "|cff1eff00|Hitem:82088:0:0:0:0:0:-39:712508258:89:0:0|h[Growing Robe of the Invoker]|h|r",
+	["14"] = "|cff1eff00|Hitem:88376:0:0:0:0:0:0:1036856448:89:0:0|h[Orange Painted Turnip]|h|r",
+	["7"] = "|cffa335ee|Hitem:90721:0:0:0:0:0:0:1615092736:89:0:0|h[Cournith Waterstrider's Silken Finery]|h|r",
+	["6"] = "|cff1eff00|Hitem:83693:0:0:0:0:0:0:1902843520:89:0:0|h[Swampwalker Cord]|h|r",
+	["9"] = "|cff1eff00|Hitem:81507:0:0:0:0:0:0:822113408:89:0:0|h[Angkhal Cuffs]|h|r",
+	["15"] = "|cff1eff00|Hitem:81538:0:0:0:0:0:0:373598464:89:0:0|h[Waterfall Drape]|h|r",
+	["16"] = "|cff0070dd|Hitem:80789:0:0:0:0:0:0:1547878400:89:0:0|h[Jinyu Divining Rod]|h|r",
+	["8"] = "|cff0070dd|Hitem:81480:0:0:0:0:0:0:102085248:89:0:0|h[Angkhal Treads]|h|r",
+	["13"] = "|cff1eff00|Hitem:88583:0:0:0:0:0:0:1967278464:89:0:0|h[Ban's Bag of Bombs]|h|r",
+	["12"] = "|cff0070dd|Hitem:81820:0:0:0:0:0:0:516842624:89:0:0|h[Band of the Dance Ritual]|h|r",
+	["11"] = "|cff1eff00|Hitem:81518:0:0:0:0:0:0:1429730432:89:0:0|h[Lory Feather Band]|h|r",
+	["10"] = "|cff0070dd|Hitem:87598:0:0:0:0:0:0:465176576:89:0:0|h[Monstrous Silk Gloves]|h|r",
+}
+AmrGold = 65268729
+AmrRealmName = "Thrall"
+AmrCharacterName = "Nohkimon"
+AmrIconInfo = {
+	["minimapPos"] = 208.6368303042916,
+}
+AmrCurrencies = {
+}
+AmrProfessions = {
+	["Engineering"] = 1,
+	["Mining"] = 1,
+	["First Aid"] = 450,
+	["Cooking"] = 1,
+}
+AmrSpecializations = {
+	["1"] = 265,
+	["2"] = 266,
+}
+AmrRace = "Orc"
+AmrLevel = 89
+AmrFaction = "Horde"
+AmrActiveSpec = 2
+AmrHideMapIcon = false

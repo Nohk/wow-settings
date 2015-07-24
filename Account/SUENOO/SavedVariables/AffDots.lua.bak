@@ -1,0 +1,19 @@
+
+AffDotsOptions110 = nil
+AffDotsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+			["p"] = "BOTTOM",
+			["x"] = -334.0000610351563,
+			["y"] = 191.9999237060547,
+			["rp"] = "BOTTOM",
+		},
+	},
+}

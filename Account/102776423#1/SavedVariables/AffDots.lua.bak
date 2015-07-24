@@ -1,0 +1,15 @@
+
+AffDotsOptions110 = nil
+AffDotsDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Nunae - Thrall",
+	},
+	["profiles"] = {
+		["Nunae - Thrall"] = {
+		},
+	},
+}

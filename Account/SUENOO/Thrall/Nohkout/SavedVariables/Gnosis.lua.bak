@@ -1,0 +1,12 @@
+
+GnosisChar = {
+	["profileKeys"] = {
+		["Nohko - Thrall"] = "Nohko - Thrall",
+	},
+	["profiles"] = {
+		["Nohko - Thrall"] = {
+		},
+	},
+}
+GnosisCharConfig = {
+}

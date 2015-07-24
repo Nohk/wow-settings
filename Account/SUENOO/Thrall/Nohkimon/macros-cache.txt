@@ -1,0 +1,86 @@
+VER 3 01000000000002ED "Bloodclaw" "INV_ZandalariBabyRaptorRed"
+/tar Bloodclaw
+END
+VER 3 0100000000000189 "Chaos Bolt" "INV_MISC_QUESTIONMARK"
+#showtooltip Chaos Bolt
+/stopcasting
+/cast Chaos Bolt
+END
+VER 3 010000000000017F "Command Demon" "INV_MISC_QUESTIONMARK"
+#showtooltip Command Demon
+/stopcasting
+/cast Command Demon
+END
+VER 3 01000000000002EC "Darkfang" "INV_ZandalariBabyRaptorBlack"
+/tar Darkfang
+END
+VER 3 010000000000017C "Drain Soul" "SPELL_SHADOW_HAUNTING"
+#showtooltip Drain Soul
+/stopcasting
+/cast Drain Soul
+END
+VER 3 0100000000000182 "Hand of Gul'dan" "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Gul'dan
+/stopcasting
+/cast Hand of Gul'dan
+END
+VER 3 010000000000025A "Havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip Havoc
+/cast [@mouseover,exists,harm] Havoc
+END
+VER 3 010000000000018A "Havoc (Focus)" "SPELL_MISC_PETHEAL"
+#showtooltip Havoc
+/cast [@focus, harm, nodead] Havoc
+END
+VER 3 010000000000017D "Hellfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Hellfire
+/cast [nochanneling] Hellfire
+/cancelaura [channeling] Hellfire
+END
+VER 3 0100000000000188 "Immolate" "INV_MISC_QUESTIONMARK"
+#showtooltip Immolate
+/stopcasting
+/cast Immolate
+END
+VER 3 01000000000002EB "Metamorphosis" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Metamorphosis
+END
+VER 3 01000000000002E0 "SB: Seed" "Ability_Creature_Poison_06"
+#showtooltip Seed of Corruption
+/stopcasting
+/cast Soulburn
+/cast Seed of Corruption
+END
+VER 3 010000000000025C "SB: Soul Swap" "ability_deathwing_assualtaspects"
+#showtooltip Soul Swap
+/stopcasting
+/cast Soulburn
+/cast [target=mouseover,exists,harm] [] Soul Swap
+END
+VER 3 010000000000025B "Shadowburn" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowburn
+/stopcasting
+/cast Shadowburn
+END
+VER 3 0100000000000185 "Shadowburn Mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowburn
+/stopcasting
+/cast [target=mouseover,harm,exists] Shadowburn
+/cast Shadowburn
+END
+VER 3 0100000000000181 "Soul Fire" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul Fire
+/stopcasting
+/cast Soul Fire
+END
+VER 3 010000000000017E "Soulshatter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Soulshatter
+END
+VER 3 0100000000000183 "Soulstone" "INV_MISC_QUESTIONMARK"
+#showtooltip Soulstone
+/use [@mouseover,dead] Soulstone
+END

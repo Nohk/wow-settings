@@ -1,0 +1,5 @@
+
+ResolveHistoryDB = {
+	["Nohk - Thrall"] = {
+	},
+}

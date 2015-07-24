@@ -1,0 +1,40 @@
+VER 3 010000000000000E "Gotteshymne" "SPELL_HOLY_DIVINEHYMN"
+/y  Gotteshymne läuft!
+/cast Divine Hymn
+/in 7  /y  Gotteshymne vorbei
+END
+VER 3 0100000000000012 "Lei Shen Gruppen" "ACHIEVEMENT_GUILDPERK_HONORABLEMENTION_RANK2"
+/ra Übergang 1:
+/ra GELB: Feylin, Rollchn, Moonsk, Bruiser,Schakalakaa, Rotting
+/ra GRÜN: Nunae, Ragaldin, Fyzu, Arutak, Roxxoar, Nohk
+/ra ROT: Xyru, Kaliyo, Zuhani, Noshkeer,Trixie, Schuetze, Paein
+/ra LILA: Miralie,Yaga, Phony, Siscia, Balu, Craidy
+END
+VER 3 0100000000000013 "Lei Shen Ü2" "INV_SCROLL_11"
+/ra Übergang 2
+/ra GRÜN: Miralie,Yagaman
+/ra ROT:Siscia, Phony
+/ra GELB: Balu, Craidy
+END
+VER 3 010000000000000D "Manahymne" "SPELL_HOLY_SYMBOLOFHOPE"
+/s  Manahymne läuft!
+/cast Hymn of Hope
+/in 7  /s  Manahymne vorbei =(
+END
+VER 3 0100000000000011 "Norushen" "ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2"
+/ra W1  Phony ->Kheldos -> Schuetze ->Nohk -> Fyzu
+/ra W2 Baluna -> Skonti -> Taciter -> Pain -> Shiek
+/ra W3 Rotting -> Feyrah ->Yaga ->  Krunk -> Forklift
+/ra H Manu -> Rollchn -> Mira -> Kaliyo ->Nunae -> Shion
+END
+VER 3 010000000000000F "RaidCDs" "INV_KNIFE_1H_THUNDERISLERAID_D_03"
+/ra 1) miralie totems, laky
+/ra 2)nunae, kaliyot
+/ra 3) versage, manu
+END
+VER 3 0100000000000010 "Tortos RaidCDs" "SPELL_MISC_PETHEAL"
+/ra 1) Manu
+/ra 2) Kaliyo
+/ra 3) miralie + nunae
+/ra 4) rollchn
+END

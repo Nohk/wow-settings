@@ -1,0 +1,61 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatLog"] = {
+		["1387235507.452"] = {
+			"Moin Nohkliterate !Hast Du Lust der Fun-Gilde Macht und Reichtum 5 beizutreten? Hier hast du keine Verpflichtungen, es geht einfach darum, Spaß mit den anderen Membern zu haben! lG", -- [1]
+			"Gôrgoroth", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gôrgoroth", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17108, -- [11]
+			"0x0480000004380981", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_WHISPER",
+		},
+		["1387235403.071"] = {
+			"Levelgilde {stern}Daykarr Company{stern} {Kreis}12{Kreis} einfach beitreten und vorhandene Gildenboni nutzen.{dreieck}<--?-->{Kreuz}", -- [1]
+			"Myriande", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Myriande", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17073, -- [11]
+			"0x0480000004837C2F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_WHISPER",
+		},
+		["1387235392.825"] = {
+			"^LFW_V2200", -- [1]
+			"Nohkliterate", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Nohkliterate", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			17068, -- [11]
+			"0x0480000004B57723", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+	},
+}

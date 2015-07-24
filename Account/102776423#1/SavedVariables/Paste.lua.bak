@@ -1,0 +1,11 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Nunae - Thrall",
+	},
+	["profiles"] = {
+		["Nunae - Thrall"] = {
+			["loaded"] = true,
+		},
+	},
+}

@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "ZGVMacro2" "0"
+/target Megelon
+/run ZGV:MRM()
+END

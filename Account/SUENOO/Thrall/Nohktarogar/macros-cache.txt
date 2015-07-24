@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "Shield Slam" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield Slam
+/cast Blood Fury
+/cast Shield Slam
+END
+VER 3 010000000000002E "ZGVMacro1" "0"
+/target Guzrug the Tiny
+/run ZGV:MRM()
+END

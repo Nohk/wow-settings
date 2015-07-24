@@ -1,0 +1,180 @@
+
+ActionBarSaverDB = {
+	["restoreRank"] = true,
+	["macro"] = true,
+	["sets"] = {
+		["DEATHKNIGHT"] = {
+		},
+		["WARRIOR"] = {
+		},
+		["SHAMAN"] = {
+		},
+		["MAGE"] = {
+		},
+		["PRIEST"] = {
+		},
+		["WARLOCK"] = {
+			["demonology"] = {
+				"spell|172||Corruption||", -- [1]
+				"spell|686||Shadow Bolt||", -- [2]
+				"macro|3||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire/n/stopcasting/n/cast Soul Fire", -- [3]
+				"macro|4||Hand of Gul'dan|Interface\\Icons\\ability_warlock_handofguldan|#showtooltip Hand of Gul'dan/n/stopcasting/n/cast Hand of Gul'dan", -- [4]
+				"macro|5||Metamorphosis|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip/n/stopcasting/n/cast Metamorphosis", -- [5]
+				"spell|689||Drain Life||", -- [6]
+				"spell|1490||Curse of the Elements||", -- [7]
+				"item|5512||Healthstone", -- [8]
+				"spell|1454||Life Tap||", -- [9]
+				"spell|6789||Mortal Coil||", -- [10]
+				"spell|108416||Sacrificial Pact||", -- [11]
+				"spell|114168||Dark Apotheosis|Glyph|", -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				nil, -- [24]
+				"spell|112869||Summon Observer|Summon|", -- [25]
+				"spell|112866||Summon Fel Imp|Summon|", -- [26]
+				"spell|112870||Summon Wrathguard|Summon|", -- [27]
+				"spell|112867||Summon Voidlord|Summon|", -- [28]
+				"spell|112868||Summon Shivarra|Summon|", -- [29]
+				"spell|698||Ritual of Summoning||", -- [30]
+				"spell|48020||Demonic Circle: Teleport||", -- [31]
+				"spell|48018||Demonic Circle: Summon||", -- [32]
+				"spell|29893||Create Soulwell||", -- [33]
+				"spell|755||Health Funnel||", -- [34]
+				nil, -- [35]
+				"spell|111771||Demonic Gateway||", -- [36]
+				"macro|37||GRATZ|Interface\\Icons\\spell_Shaman_convection|/g Bäm GZ! :)", -- [37]
+				"macro|38||Cloak|Interface\\Icons\\INV_CAPE_PANDARIA_D_03|/use 15", -- [38]
+				"macro|39||Belt|Interface\\Icons\\INV_BELT_CLOTH_RAIDMAGE_M_01|#showtooltip/n/use 6", -- [39]
+				"spell|110403||Engineering||", -- [40]
+				"spell|110426||Tailoring||", -- [41]
+				"macro|42||Tank|Interface\\Icons\\Ability_Creature_Cursed_04|/tar focus/n/assist", -- [42]
+				"macro|43||Fel Flame Self|Interface\\Icons\\INV_MISC_QUESTIONMARK|/cast [@player] Fel Flame Breath", -- [43]
+				"spell|710||Banish||", -- [44]
+				"flyout|10||Summon Demon|", -- [45]
+				"spell|1098||Enslave Demon||", -- [46]
+				"item|74650||Mogu Fish Stew", -- [47]
+				"item|6948||Hearthstone", -- [48]
+				"macro|49||Hellfire|Interface\\Icons\\Spell_Fire_Incinerate|#showtooltip Hellfire/n/cast [nochanneling] Hellfire/n/cancelaura [channeling] Hellfire", -- [49]
+				"spell|77799||Fel Flame||", -- [50]
+				"spell|111400||Burning Rush||", -- [51]
+				"spell|103967||Carrion Swarm|Metamorphosis|", -- [52]
+				"macro|53||Power Up!|Interface\\Icons\\ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2|#showtooltip Blood Fury(Racial)/n/stopcasting/n/cast Dark Soul: Instability/n/cast Dark Soul: Misery/n/cast Dark Soul: Knowledge/n/cast Blood Fury(Racial)/n/use 10", -- [53]
+				"spell|109151||Demonic Leap||", -- [54]
+				"macro|55||Soulshatter|Interface\\Icons\\Spell_Arcane_Arcane01|#showtooltip/n/stopcasting/n/cast Soulshatter", -- [55]
+				"spell|104773||Unending Resolve||", -- [56]
+				"spell|119915||Wrathstorm|Special Ability|", -- [57]
+				"spell|104316||Imp Swarm|Glyph|", -- [58]
+				"item|76093||Potion of the Jade Serpent", -- [59]
+				"spell|110505||Symbiosis||", -- [60]
+				"macro|61||Random Mount|Interface\\Icons\\Ability_Mount_Charger|/ai summon mount", -- [61]
+				"macro|62||Enslave Pit Lord|Interface\\Icons\\Spell_Shadow_EnslaveDemon|#show Enslave Demon/n/target Pit Lord/n/cast Enslave Demon", -- [62]
+				"spell|5782||Fear||", -- [63]
+				"macro|64||ExtraActionButt|Interface\\Icons\\INV_Pet_Maggot|/click ExtraActionButton1", -- [64]
+				"spell|109773||Dark Intent||", -- [65]
+				"spell|5697||Unending Breath||", -- [66]
+				"spell|112927||Summon Terrorguard|Guardian|", -- [67]
+				"spell|112921||Summon Abyssal|Guardian|", -- [68]
+				"spell|109466||Curse of Enfeeblement||", -- [69]
+				"macro|70||Soulstone|Interface\\Icons\\Spell_Shadow_SoulGem|#showtooltip Soulstone/n/cast [target=mouseover,exists] [] Soulstone", -- [70]
+				"spell|6229||Twilight Ward||", -- [71]
+				"spell|126||Eye of Kilrogg|Summon|", -- [72]
+			},
+			["destruction"] = {
+				"spell|348||Immolate||", -- [1]
+				"spell|29722||Incinerate||", -- [2]
+				"spell|17962||Conflagrate||", -- [3]
+				"macro|4||Chaos Bolt|Interface\\Icons\\Ability_Warlock_ChaosBolt|#showtooltip Chaos Bolt/n/stopcasting/n/cast Chaos Bolt", -- [4]
+				"spell|108683||Fire and Brimstone||", -- [5]
+				"spell|689||Drain Life||", -- [6]
+				"spell|1490||Curse of the Elements||", -- [7]
+				"item|5512||Healthstone", -- [8]
+				"spell|111546||Chaotic Energy||", -- [9]
+				"spell|6789||Mortal Coil||", -- [10]
+				"spell|108416||Sacrificial Pact||", -- [11]
+				nil, -- [12]
+				nil, -- [13]
+				nil, -- [14]
+				nil, -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				nil, -- [24]
+				"spell|112869||Summon Observer|Summon|", -- [25]
+				"spell|112866||Summon Fel Imp|Summon|", -- [26]
+				"spell|710||Banish||", -- [27]
+				"spell|112867||Summon Voidlord|Summon|", -- [28]
+				"spell|112868||Summon Shivarra|Summon|", -- [29]
+				"spell|698||Ritual of Summoning||", -- [30]
+				"spell|48020||Demonic Circle: Teleport||", -- [31]
+				"spell|48018||Demonic Circle: Summon||", -- [32]
+				"spell|29893||Create Soulwell||", -- [33]
+				"spell|755||Health Funnel||", -- [34]
+				nil, -- [35]
+				"spell|111771||Demonic Gateway||", -- [36]
+				"macro|37||GRATZ|Interface\\Icons\\spell_Shaman_convection|/g Bäm GZ! :)", -- [37]
+				"macro|38||Cloak|Interface\\Icons\\INV_CAPE_PANDARIA_D_03|/use 15", -- [38]
+				"macro|39||Belt|Interface\\Icons\\INV_BELT_CLOTH_RAIDMAGE_M_01|#showtooltip/n/use 6", -- [39]
+				"macro|40||Farm Mode|Interface\\Icons\\spell_lifegivingseed|/farmmode 512", -- [40]
+				"spell|110403||Engineering||", -- [41]
+				"macro|42||Tank|Interface\\Icons\\Ability_Creature_Cursed_04|/tar focus/n/assist", -- [42]
+				nil, -- [43]
+				nil, -- [44]
+				"macro|45||Fel Flame Self|Interface\\Icons\\INV_MISC_QUESTIONMARK|/cast [@player] Fel Flame Breath", -- [45]
+				"item|74644||Swirling Mist Soup", -- [46]
+				"spell|1098||Enslave Demon||", -- [47]
+				"item|6948||Hearthstone", -- [48]
+				"spell|104232||Rain of Fire|Destruction|", -- [49]
+				"spell|77799||Fel Flame||", -- [50]
+				"spell|111400||Burning Rush||", -- [51]
+				"macro|52||Shadowburn Mouse|Interface\\Icons\\Spell_Shadow_ScourgeBuild|#showtooltip Shadowburn/n/stopcasting/n/cast [target=mouseover,harm,exists] Shadowburn/n/cast Shadowburn", -- [52]
+				"macro|53||Power Up!|Interface\\Icons\\ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2|#showtooltip Blood Fury(Racial)/n/stopcasting/n/cast Dark Soul: Instability/n/cast Dark Soul: Misery/n/cast Dark Soul: Knowledge/n/cast Blood Fury(Racial)/n/use 10", -- [53]
+				"spell|114635||Ember Tap||", -- [54]
+				"macro|55||Soulshatter|Interface\\Icons\\Spell_Arcane_Arcane01|#showtooltip/n/stopcasting/n/cast Soulshatter", -- [55]
+				"spell|104773||Unending Resolve||", -- [56]
+				"spell|119898||Command Demon||", -- [57]
+				"macro|58||Shadowburn|Interface\\Icons\\Spell_Shadow_ScourgeBuild|#showtooltip Shadowburn/n/stopcasting/n/cast Shadowburn", -- [58]
+				"item|76093||Potion of the Jade Serpent", -- [59]
+				"macro|60||Havoc|INTERFACE\\ICONS\\ability_warlock_baneofhavoc|#showtooltip Havoc/n/cast [target=mouseover,exists,harm] [] Havoc", -- [60]
+				"macro|61||Random Mount|Interface\\Icons\\Ability_Mount_Charger|/ai summon mount", -- [61]
+				nil, -- [62]
+				"spell|5782||Fear||", -- [63]
+				"macro|64||Flame Breath Imp|Interface\\Icons\\INV_MISC_QUESTIONMARK|/target Wild Imp/n/petattack/n/cast Fel Flame Breath/n/targetlasttarget/n/petattack", -- [64]
+				"spell|109773||Dark Intent||", -- [65]
+				"spell|5697||Unending Breath||", -- [66]
+				"spell|112927||Summon Terrorguard|Guardian|", -- [67]
+				"spell|112921||Summon Abyssal|Guardian|", -- [68]
+				"spell|109466||Curse of Enfeeblement||", -- [69]
+				"macro|70||Soulstone|Interface\\Icons\\Spell_Shadow_SoulGem|#showtooltip Soulstone/n/cast [target=mouseover,exists] [] Soulstone", -- [70]
+				"spell|6229||Twilight Ward||", -- [71]
+				"spell|126||Eye of Kilrogg|Summon|", -- [72]
+			},
+		},
+		["ROGUE"] = {
+		},
+		["HUNTER"] = {
+		},
+		["DRUID"] = {
+		},
+		["MONK"] = {
+		},
+		["PALADIN"] = {
+		},
+	},
+	["spellSubs"] = {
+	},
+	["checkCount"] = true,
+}

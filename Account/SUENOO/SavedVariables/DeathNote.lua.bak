@@ -1,0 +1,10 @@
+
+DeathNoteDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+		},
+	},
+}

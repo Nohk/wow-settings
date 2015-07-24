@@ -1,0 +1,52 @@
+MACRO 16777224 "Anspringen/Zerma" INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:3] Anspringen
+/cast [stance:1] Zermalmen
+END
+MACRO 16777226 "Boom!" Ability_Druid_Berserk
+#showtooltip Berserker(Katzen- oder Bärengestalt)
+/use 13
+/cast Berserker(Katzen- oder Bärengestalt)
+END
+MACRO 16777220 "Feral" Ability_Druid_CatForm
+/run LibStub("AceAddon-3.0"):GetAddon("Quartz3").db:SetProfile("Aeryo DD")
+/equipset Feral
+END
+MACRO 16777219 "FF" INV_Misc_QuestionMark
+#showtooltip
+/cast [nostance][stance:2/4/5] Feenfeuer
+/cast [stance:1/3] Feenfeuer (Tiergestalt)(Katzen- oder Bärengestalt)
+END
+MACRO 16777223 "Kralle" INV_Misc_QuestionMark
+#showtooltip Krallenhieb
+/use 13
+/use 14
+/cast Krallenhieb
+END
+MACRO 16777227 "neu" INV_Misc_QuestionMark
+END
+MACRO 16777222 "Prakenhieb" INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:3] Prankenhieb(Katzengestalt)
+/cast [stance:1] Prankenhieb(Bärengestalt)
+END
+MACRO 16777228 "PVP" INV_Misc_QuestionMark
+#showtooltip Krallenhieb
+/use 13
+/cast Krallenhieb
+END
+MACRO 16777221 "Resto" Ability_Druid_TreeofLife
+/run LibStub("AceAddon-3.0"):GetAddon("Quartz3").db:SetProfile("Aeryo Heal")
+/equipset Resto
+END
+MACRO 16777225 "Roar" INV_Misc_QuestionMark
+#showtooltip
+/cast [stance:3] Anstachelndes Brüllen(Katzengestalt)
+/cast [stance:1] Anstachelndes Brüllen(Bärengestalt)
+END
+MACRO 16777217 "VuhDoDCShieldData" Ability_Hunter_ExplosiveShot
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777218 "VuhDoDCShieldNames" Ability_Hunter_ExplosiveShot
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Aer[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

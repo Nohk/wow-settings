@@ -1,0 +1,20 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["global"] = {
+		["TrackUndercuts"] = false,
+	},
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["ReportingEnabled"] = {
+				["Nohkan"] = true,
+			},
+			["MyToons"] = {
+				["Nohkan"] = {
+				},
+			},
+		},
+	},
+}

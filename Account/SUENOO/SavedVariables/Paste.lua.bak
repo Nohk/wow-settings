@@ -1,0 +1,15 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["loaded"] = true,
+			["pos"] = {
+			},
+		},
+	},
+}

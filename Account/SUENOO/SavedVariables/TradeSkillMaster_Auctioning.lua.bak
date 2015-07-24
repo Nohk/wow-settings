@@ -1,0 +1,29 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["global"] = {
+		["hideAdvanced"] = false,
+		["treeGroupStatus"] = {
+			["groups"] = {
+				["1"] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = 1,
+			["treesizable"] = true,
+			["fullwidth"] = 801,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["player"] = {
+				["Nohkimon"] = true,
+			},
+		},
+	},
+}

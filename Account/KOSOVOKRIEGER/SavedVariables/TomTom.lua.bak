@@ -1,0 +1,20 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Schakalakaa - Thrall",
+	},
+	["profiles"] = {
+		["Schakalakaa - Thrall"] = {
+		},
+	},
+}

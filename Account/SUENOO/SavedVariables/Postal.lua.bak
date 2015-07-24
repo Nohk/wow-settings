@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Nohkimon|Thrall|Horde|100|WARLOCK", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+		},
+	},
+}

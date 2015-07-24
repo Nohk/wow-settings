@@ -1,0 +1,26 @@
+VER 3 0100000000F0BDC8 "Gathering 1" "INV_MISC_QUESTIONMARK"
+#showtooltip Green Tea Leaf
+END
+VER 3 0100000000F0BDC9 "Gathering 2" "INV_MISC_QUESTIONMARK"
+#showtooltip Rain Poppy
+END
+VER 3 0100000000F0BDCA "Gathering 3" "INV_MISC_QUESTIONMARK"
+#showtooltip Golden Lotus
+END
+VER 3 0100000000F0BDCC "Gathering 4" "INV_MISC_QUESTIONMARK"
+#showtooltip Goldthorn
+END
+VER 3 0100000000F0BDCD "Gathering 5" "INV_MISC_QUESTIONMARK"
+#showtooltip Stranglekelp
+END
+VER 3 0100000000F0BDCE "Gathering 6" "INV_MISC_QUESTIONMARK"
+#showtooltip Liferoot
+END
+VER 3 0100000000F0BDCB "Ore 1" "INV_MISC_QUESTIONMARK"
+#showtooltip Ghost Iron Ore
+END
+VER 3 0100000000F0BDCF "SotR" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield of the Righteous
+/use 14
+/cast Shield of the Righteous
+END

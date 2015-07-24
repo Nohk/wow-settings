@@ -1,0 +1,55 @@
+VER 3 000000000000003A "/knien" "INV_KNIFE_1H_PANDUNG_C_01"
+/knien
+END
+VER 3 0000000000000039 "ad" "Ability_BackStab"
+/2 suchen ein 1 tank kein pala 1top grp heiler und  1 shadow mit heal specc für fl 10er exp+gear muss vorhanden sein werden 7/7 legen /w me
+END
+VER 3 0000000000000021 "adsd" "Ability_Creature_Poison_01"
+/console cameradistancemaxfactor 500
+END
+VER 3 000000000000001F "adw" "Ability_Creature_Disease_03"
+/umarmen
+END
+VER 3 0000000000000037 "adwed" "Ability_Creature_Cursed_03"
+/focus wadenbeißer
+END
+VER 3 0000000000000038 "asd" "Ability_Druid_KingoftheJungle"
+/rnd
+END
+VER 3 000000000000002E "asda" "Ability_Druid_GaleWinds"
+/schreien FÜR DIE HORDE
+END
+VER 3 0000000000000026 "asdaw" "Ability_Creature_Poison_03"
+ TIME STOP ;)
+END
+VER 3 0000000000000025 "asdfda" "Ability_Creature_Disease_05"
+/kuss
+END
+VER 3 0000000000000036 "casino" "Ability_CheapShot"
+/rw Das Casino hat geöffnet wer mag mit spiele die REGELN des spielst lauten so wir würfeln 1-10 der gewinner bekommt ALLES :) 
+END
+VER 3 000000000000003B "da" "INV_SCROLL_11"
+/2 Hallo shadow mit nem gs 498 sucht eine STAMM grp für TDD habe erst 2/12 xp für weiter info /w me
+END
+VER 3 0000000000000028 "Decursive" "INV_Misc_QuestionMark"
+/stopcasting
+/cast [target=mouseover,nomod,exists] Reinigung des Glaubens;  [target=mouseover,exists,mod:ctrl] Reinigung des Glaubens; [target=mouseover,exists,mod:shift] Reinigung des Glaubens
+END
+VER 3 0000000000000024 "egt" "Ability_Druid_AquaticForm"
+/sw due mache meine kopfe kapute 
+END
+VER 3 0000000000000033 "qr3q" "Ability_Creature_Disease_01"
+/2 biete |cffffd000|Htrade:74258:535:535:480000003969EF9:4/Kbb6a8f5Z7msynvLJPJDBAAgGARuA44Xzi907/+b1vHX///vT////////XA|h[Verzauberkunst]|h|r gegen mats+tg
+END
+VER 3 000000000000002F "sadafsw" "Ability_Druid_Mangle"
+/huhn
+END
+VER 3 0000000000000031 "TS" "Ability_Creature_Cursed_03"
+TS3: 78.143.25.125 PORT:2133 kein passwort
+END
+VER 3 000000000000003C "wd" "SPELL_NATURE_SWIFTNESS"
+/2 vk Juwelenbesetzter Onyxpanther für 65k oder tausche gegen 6 Spukender Geist /w me
+END
+VER 3 0000000000000035 "würfeln" "Ability_Creature_Cursed_01"
+/rnd 1-10
+END

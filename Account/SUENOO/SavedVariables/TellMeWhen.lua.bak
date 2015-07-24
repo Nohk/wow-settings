@@ -1,0 +1,1336 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Nohkout - Thrall"] = "Nohkout - Thrall",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+		["HelpSettings"] = {
+			["SUG_FIRSTHELP"] = true,
+			["SIMPLEGSTAB"] = true,
+			["SCROLLBAR_DROPDOWN"] = false,
+		},
+	},
+	["Version"] = 72218,
+	["profiles"] = {
+		["Nohkout - Thrall"] = {
+			["NumGroups"] = 2,
+			["Version"] = 72218,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1KWk0TmMDo9o",
+					["Point"] = {
+						["y"] = -67,
+					},
+					["Scale"] = 1.1093043088913,
+					["Rows"] = 6,
+					["Role"] = 4,
+					["Tree2"] = false,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Pain Suppression",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "102342",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						nil, -- [3]
+						nil, -- [4]
+						nil, -- [5]
+						{
+							["Type"] = "buffcheck",
+							["Name"] = "Legacy of the White Tiger; IncreasedCrit; IncreasedStats",
+							["Enabled"] = true,
+						}, -- [6]
+						nil, -- [7]
+						nil, -- [8]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "152173",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["UnAlpha"] = 0,
+						}, -- [9]
+						nil, -- [10]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "115078",
+							["ShowTimerText"] = true,
+							["Unit"] = "focus",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										"[Duration:TMWFormatDuration]", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+						}, -- [11]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "buff",
+							["Name"] = "Smoke Bomb",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [12]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "122783; 122278",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["Enabled"] = true,
+						}, -- [13]
+						nil, -- [14]
+						nil, -- [15]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "109223",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["EnableStacks"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "HEALTH",
+									["Operator"] = "<=",
+									["Level"] = 25,
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [16]
+						{
+							["OnlyEquipped"] = true,
+							["Type"] = "item",
+							["OnlyInBags"] = true,
+							["Name"] = "118884",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnShow",
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnHide",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "HEALTH",
+									["Operator"] = "<=",
+									["Level"] = 25,
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [17]
+						nil, -- [18]
+						nil, -- [19]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "116847",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+								},
+							},
+							["Enabled"] = true,
+						}, -- [20]
+						nil, -- [21]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Spear Hand Strike",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["DurationMin"] = 12,
+						}, -- [22]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "DefensiveBuffs; DamageShield",
+							["ShowTimerText"] = true,
+							["ShowTTText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										[2] = "[Stacks:Hide(0)]",
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						}, -- [23]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Fortifying Brew",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [24]
+						nil, -- [25]
+						nil, -- [26]
+						nil, -- [27]
+						{
+							["Type"] = "conditionicon",
+							["Name"] = "115080",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnShow",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnHide",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["CustomTex"] = "Touch of Death",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "HEALTH",
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Level"] = 10,
+								}, -- [1]
+								{
+									["Type"] = "ALIVE",
+									["Unit"] = "target",
+								}, -- [2]
+								{
+									["Type"] = "EXISTS",
+									["Unit"] = "target",
+								}, -- [3]
+								{
+									["Type"] = "REACT",
+									["Unit"] = "target",
+									["Level"] = 1,
+								}, -- [4]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "115080",
+								}, -- [5]
+								["n"] = 5,
+							},
+							["UnAlpha"] = 0,
+						}, -- [28]
+						nil, -- [29]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "115399",
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								{
+									["Type"] = "TALENTLEARNED",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["UnAlpha"] = 0,
+						}, -- [30]
+						nil, -- [31]
+						nil, -- [32]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "115450",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["DurationMin"] = 12,
+						}, -- [33]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "buff",
+							["Name"] = "Hand of Protection",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [34]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "152173; Invoke Xuen, the White Tiger",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["UnAlpha"] = 0,
+						}, -- [35]
+						nil, -- [36]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "115295",
+							["ShowTimerText"] = true,
+							["ShowTTText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										[2] = "[Stacks:Hide(0)]",
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [37]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["StackMin"] = 5,
+							["Name"] = "128939; 115308",
+							["StackSort"] = -1,
+							["ShowTimerText"] = true,
+							["Events"] = {
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["Operator"] = "==",
+									["Value"] = 15,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnStack",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["Value"] = 15,
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnStack",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										[2] = "[Stacks:Hide(0)]",
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						}, -- [38]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Alpha"] = 0.6,
+							["Name"] = "115307",
+							["ShowTimerTextnoOCC"] = true,
+							["ClockGCD"] = true,
+							["ShowTimerText"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFDUR",
+											["Operator"] = "<=",
+											["Name"] = "Shuffle",
+											["Level"] = 3.3,
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [39]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Keg Smash; Chi Wave",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["UnAlpha"] = 0.5,
+						}, -- [40]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Expel Harm",
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [41]
+						nil, -- [42]
+						nil, -- [43]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "118884",
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [44]
+						nil, -- [45]
+						nil, -- [46]
+						nil, -- [47]
+						nil, -- [48]
+						nil, -- [49]
+						nil, -- [50]
+						nil, -- [51]
+						nil, -- [52]
+						nil, -- [53]
+						nil, -- [54]
+						nil, -- [55]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "122783",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+								},
+							},
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [56]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Zen Meditation",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						}, -- [57]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Fortifying Brew",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [58]
+						nil, -- [59]
+						nil, -- [60]
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "buff",
+							["Name"] = "124275; 124274; 124273",
+							["ShowTTText"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Duration"] = 4,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnCondition",
+									["Infinite"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "ICON",
+											["Icon"] = "TMW:icon:1JzFSHOXXNl=",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnCondition",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "ICON",
+											["Level"] = 1,
+											["Icon"] = "TMW:icon:1JzFSHOXXNl=",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [2]
+								["n"] = 2,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										"", -- [1]
+										"[((Stacks * Duration:Round) / HP * 100):Round:Percent]", -- [2]
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Conditions"] = {
+								{
+									["Type"] = "TREE",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["UnAlpha"] = 0.52,
+						}, -- [61]
+						nil, -- [62]
+						nil, -- [63]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Leg Sweep; Charging Ox Wave; Ring of Peace",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [64]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Quaking Palm",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [65]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "122470",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						}, -- [66]
+					},
+					["Name"] = "Brewmaster",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 10,
+							["SpacingY"] = 10,
+						},
+					},
+					["Tree3"] = false,
+					["Columns"] = 11,
+				}, -- [1]
+				{
+					["GUID"] = "TMW:group:1KWjzSIyrZvB",
+					["Point"] = {
+						["y"] = -67,
+					},
+					["Scale"] = 1.1093043088913,
+					["Rows"] = 6,
+					["Role"] = 1,
+					["Tree2"] = false,
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Pain Suppression",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "102342",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						[6] = {
+							["Type"] = "buffcheck",
+							["Name"] = "Legacy of the White Tiger; IncreasedCrit; IncreasedStats",
+							["Unit"] = "player; raid; party 1-4",
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						},
+						[58] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Fortifying Brew",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[31] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Multi-Strike",
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						},
+						[16] = {
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Name"] = "109223",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["EnableStacks"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "HEALTH",
+									["Operator"] = "<=",
+									["Level"] = 25,
+								}, -- [1]
+								["n"] = 1,
+							},
+						},
+						[66] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "122470",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[33] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "115450",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["DurationMin"] = 12,
+						},
+						[34] = {
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "buff",
+							["Name"] = "Hand of Protection",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						},
+						[35] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "152173; Invoke Xuen, the White Tiger",
+							["ShowTimerTextnoOCC"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["UnAlpha"] = 0,
+						},
+						[17] = {
+							["Type"] = "item",
+							["Name"] = "109998",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = "<=",
+											["Name"] = "Fists of Fury",
+											["Level"] = 5,
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Operator"] = "<=",
+									["Name"] = "Fists of Fury",
+									["Level"] = 5,
+								}, -- [2]
+								["n"] = 2,
+							},
+						},
+						[37] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "115288",
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								{
+									["Type"] = "TREE",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["UnAlpha"] = 0.7,
+						},
+						[38] = {
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1IXeS8slDlia", -- [1]
+								"TMW:icon:1IXeS8sbkL2X", -- [2]
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = "<",
+											["Name"] = "Fists of Fury",
+											["Level"] = 4,
+										}, -- [1]
+										{
+											["Type"] = "BUFFDUR",
+											["Name"] = "Tigereye Brew",
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = "<=",
+											["Name"] = "Fists of Fury",
+											["Level"] = 4,
+										}, -- [1]
+										{
+											["Type"] = "BUFFDUR",
+											["Operator"] = "||=",
+											["Name"] = "Tigereye Brew",
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [2]
+								["n"] = 2,
+							},
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						},
+						[20] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "116847; Spinning Crane Kick",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+								},
+							},
+							["Enabled"] = true,
+						},
+						[40] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "113656",
+							["ShowTimerText"] = true,
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["b_anim"] = 0.141176470588235,
+									["g_anim"] = 1,
+									["Period"] = 0.2,
+									["Animation"] = "ICONFLASH",
+									["Event"] = "WCSP",
+									["r_anim"] = 0.305882352941177,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = "<",
+											["Name"] = "Fists of Fury",
+											["Level"] = 2,
+										}, -- [1]
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = ">",
+											["Name"] = "Fists of Fury",
+											["Level"] = 0.1,
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["b_anim"] = 0.219607843137255,
+									["g_anim"] = 0.992156862745098,
+									["Period"] = 0.3,
+									["Animation"] = "ICONFLASH",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = ">",
+											["Name"] = "Fists of Fury",
+											["Level"] = 2,
+										}, -- [1]
+										{
+											["Type"] = "SPELLCD",
+											["Operator"] = "<",
+											["Name"] = "Fists of Fury",
+											["Level"] = 6,
+										}, -- [2]
+										["n"] = 2,
+									},
+								}, -- [2]
+								{
+									["Type"] = "Animations",
+									["OnlyShown"] = true,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "SPELLCD",
+											["Name"] = "Fists of Fury",
+										}, -- [1]
+										{
+											["Type"] = "BUFFDUR",
+											["Operator"] = ">",
+											["Name"] = "Tigereye Brew",
+											["Level"] = 4,
+										}, -- [2]
+										{
+											["Type"] = "BUFFDUR",
+											["Operator"] = ">",
+											["Name"] = "Tiger Power",
+											["Level"] = 4,
+										}, -- [3]
+										{
+											["Type"] = "BUFFDUR",
+											["Operator"] = ">",
+											["Name"] = "Rising Sun Kick",
+											["Level"] = 4,
+										}, -- [4]
+										["n"] = 4,
+									},
+								}, -- [3]
+								["n"] = 3,
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								{
+									["Type"] = "TREE",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["UnAlpha"] = 0.7,
+						},
+						[41] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "115399",
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "Chi Brew",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["UnAlpha"] = 0,
+						},
+						[11] = {
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "cooldown",
+							["Name"] = "115078",
+							["ShowTimerText"] = true,
+							["Unit"] = "focus",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										"[Duration:TMWFormatDuration]", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[22] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Spear Hand Strike",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["DurationMin"] = 12,
+						},
+						[44] = {
+							["ShowTimer"] = true,
+							["Type"] = "item",
+							["Alpha"] = 0,
+							["Name"] = "109998",
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[23] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "DefensiveBuffs; DamageShield",
+							["ShowTimerText"] = true,
+							["ShowTTText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										[2] = "[Stacks:Hide(0)]",
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						},
+						[12] = {
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Type"] = "buff",
+							["Name"] = "Smoke Bomb",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						},
+						[24] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "Fortifying Brew",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+						},
+						[50] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "125195",
+							["Events"] = {
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["Operator"] = ">=",
+									["Value"] = 10,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnStack",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["Value"] = 10,
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnStack",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks]", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+							["GUID"] = "TMW:icon:1IXeS8sbkL2X",
+							["UnAlpha"] = 0,
+						},
+						[49] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "116740",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"[Stacks(\"TMW:icon:1IXeS8sbkL2X\")]", -- [1]
+										"[Duration:TMWFormatDuration]", -- [2]
+									},
+								},
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+							["GUID"] = "TMW:icon:1IXeS8slDlia",
+						},
+						[13] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "122783; 1222MJ78",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["Enabled"] = true,
+						},
+						[65] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Quaking Palm",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[39] = {
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "EITHER",
+							["Type"] = "buff",
+							["Name"] = "130320",
+							["ShowTimerTextnoOCC"] = true,
+							["ClockGCD"] = true,
+							["ShowTimerText"] = true,
+							["Unit"] = "player; target",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Duration"] = 13,
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["Infinite"] = true,
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "BUFFDUR",
+											["Name"] = "Tiger Power",
+											["Icon"] = "TMW:icon:1KWjzSIyPkK3",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 3,
+							["Enabled"] = true,
+							["UnAlpha"] = 0,
+						},
+						[61] = {
+							["ShowTimer"] = true,
+							["Type"] = "buff",
+							["Name"] = "115295",
+							["ShowTTText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:,a-ZW/UmJhpv",
+									["Texts"] = {
+										[2] = "[Stacks:Hide(0)]",
+									},
+								},
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						},
+						[64] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Leg Sweep; Charging Ox Wave; Ring of Peace",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+						},
+						[28] = {
+							["Type"] = "conditionicon",
+							["Name"] = "115080",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnShow",
+									["Infinite"] = true,
+								}, -- [1]
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ICONCLEAR",
+									["Event"] = "OnHide",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["CustomTex"] = "Touch of Death",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "HEALTH",
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Level"] = 10,
+								}, -- [1]
+								{
+									["Type"] = "ALIVE",
+									["Unit"] = "target",
+								}, -- [2]
+								{
+									["Type"] = "EXISTS",
+									["Unit"] = "target",
+								}, -- [3]
+								{
+									["Type"] = "REACT",
+									["Unit"] = "target",
+									["Level"] = 1,
+								}, -- [4]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "115080",
+								}, -- [5]
+								["n"] = 5,
+							},
+							["UnAlpha"] = 0,
+						},
+						[56] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "122783",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+								},
+							},
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						},
+						[57] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Alpha"] = 0,
+							["Name"] = "Zen Meditation",
+							["ShowTimerTextnoOCC"] = true,
+							["ShowTimerText"] = true,
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						},
+						[9] = {
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "152173; Invoke Xuen, the White Tiger",
+							["ShowTimerText"] = true,
+							["SettingsPerView"] = {
+								["Type"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["ShowWhen"] = 1,
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+						},
+					},
+					["Tree1"] = false,
+					["Alpha"] = 0.7,
+					["Name"] = "Windwalker",
+					["SettingsPerView"] = {
+						["icon"] = {
+							["SpacingX"] = 10,
+							["SpacingY"] = 10,
+						},
+					},
+					["Columns"] = 11,
+				}, -- [2]
+			},
+			["Locked"] = true,
+		},
+	},
+}

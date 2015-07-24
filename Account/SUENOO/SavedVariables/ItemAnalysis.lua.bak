@@ -1,0 +1,441 @@
+
+ItemAnalysisDB = {
+	["storedPlayers"] = {
+		{
+			["scannedAt"] = 1418773986,
+			["class"] = "WARRIOR",
+			["name"] = "Nohktarogar",
+			["equipedItems"] = 16,
+			["specId"] = 73,
+			["race"] = "Orc",
+			["summary"] = {
+				{
+					["Value"] = "",
+					["Text"] = "Mastery > Multistrike > Critical Strike > Haste",
+					["Item"] = "statPrio",
+				}, -- [1]
+				{
+					["Value"] = 534,
+					["Text"] = "Avg ilvl: 534",
+					["Item"] = "avgItemLvl",
+				}, -- [2]
+				{
+					["Value"] = 5,
+					["Text"] = "|cffff0000Missing 5 enchants",
+					["Item"] = "emptySockets",
+				}, -- [3]
+			},
+			["totalStats"] = {
+				["ITEM_MOD_HASTE_RATING_SHORT"] = 166,
+				["ITEM_MOD_MASTERY_RATING_SHORT"] = 262,
+				["ITEM_MOD_CR_LIFESTEAL_SHORT"] = 21,
+				["RESISTANCE0_NAME"] = 29,
+				["ITEM_MOD_DAMAGE_PER_SECOND_SHORT"] = 114,
+				["ITEM_MOD_STAMINA_SHORT"] = 1077,
+				["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 203,
+				["ITEM_MOD_CRIT_RATING_SHORT"] = 187,
+				["ITEM_MOD_STRENGTH_SHORT"] = 676,
+				["ITEM_MOD_VERSATILITY"] = 79,
+			},
+			["gear"] = {
+				["ChestSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 74,
+						["ITEM_MOD_VERSATILITY"] = 53,
+						["ITEM_MOD_STAMINA_SHORT"] = 111,
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 43,
+						["RESISTANCE0_NAME"] = 143,
+					},
+					["ilvl"] = 543,
+					["link"] = "|cff0070dd|Hitem:112588:0:0:0:0:0:0:0:94:0:11:0|h[Foundry-Fired Plate Chestplate]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_CHEST",
+					["name"] = "Foundry-Fired Plate Chestplate",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["LegsSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 76,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 48,
+						["ITEM_MOD_STAMINA_SHORT"] = 114,
+						["ITEM_MOD_HASTE_RATING_SHORT"] = 52,
+						["RESISTANCE0_NAME"] = 128,
+					},
+					["ilvl"] = 545,
+					["link"] = "|cff1eff00|Hitem:112524:0:0:0:0:0:0:0:94:0:11:0|h[Sha'tari Keeper Legguards]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_LEGS",
+					["name"] = "Sha'tari Keeper Legguards",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["WristSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 36,
+						["ITEM_MOD_VERSATILITY"] = 26,
+						["ITEM_MOD_STAMINA_SHORT"] = 54,
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 21,
+						["RESISTANCE0_NAME"] = 52,
+					},
+					["ilvl"] = 528,
+					["link"] = "|cff1eff00|Hitem:112617:0:0:0:0:0:0:0:94:0:11:0|h[Foundry-Fired Plate Wristwraps]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_WRIST",
+					["name"] = "Foundry-Fired Plate Wristwraps",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["Trinket1Slot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STAMINA_SHORT"] = 65,
+					},
+					["ilvl"] = 516,
+					["link"] = "|cff0070dd|Hitem:106899:0:0:0:0:0:0:0:94:0:0:0|h[Frostwolf Veteran's Keepsake]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Miscellaneous",
+					["equipSlot"] = "INVTYPE_TRINKET",
+					["name"] = "Frostwolf Veteran's Keepsake",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["BackSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 32,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 24,
+						["ITEM_MOD_STAMINA_SHORT"] = 48,
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 17,
+						["RESISTANCE0_NAME"] = 12,
+					},
+					["ilvl"] = 514,
+					["link"] = "|cff1eff00|Hitem:108954:0:0:0:0:0:0:0:94:0:11:0|h[Wolfsfur Greatcloak]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Cloth",
+					["equipSlot"] = "INVTYPE_CLOAK",
+					["name"] = "Wolfsfur Greatcloak",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["Trinket0Slot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_CRIT_RATING_SHORT"] = 54,
+					},
+					["ilvl"] = 558,
+					["link"] = "|cffa335ee|Hitem:112885:0:0:0:0:0:0:0:94:0:11:1:545|h[Commander Gar's Iron Insignia]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Miscellaneous",
+					["equipSlot"] = "INVTYPE_TRINKET",
+					["name"] = "Commander Gar's Iron Insignia",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["MainHandSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_HASTE_RATING_SHORT"] = 26,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 19,
+						["ITEM_MOD_STAMINA_SHORT"] = 53,
+						["ITEM_MOD_DAMAGE_PER_SECOND_SHORT"] = 114.423080444336,
+						["ITEM_MOD_STRENGTH_SHORT"] = 35,
+					},
+					["ilvl"] = 554,
+					["link"] = "|cff0070dd|Hitem:112261:0:0:0:0:0:0:0:94:0:0:0|h[Forgotten Vindicator's Blade]|h|r",
+					["class"] = "Weapon",
+					["subClass"] = "One-Handed Swords",
+					["equipSlot"] = "INVTYPE_WEAPON",
+					["name"] = "Forgotten Vindicator's Blade",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["HeadSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 54,
+						["ITEM_MOD_CRIT_RATING_SHORT"] = 39,
+						["ITEM_MOD_STAMINA_SHORT"] = 80,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 31,
+						["RESISTANCE0_NAME"] = 75,
+					},
+					["ilvl"] = 508,
+					["link"] = "|cff0070dd|Hitem:112663:0:0:0:0:0:0:0:94:0:11:0|h[Voidgazer Headguard]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_HEAD",
+					["name"] = "Voidgazer Headguard",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["Finger0Slot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 19,
+						["ITEM_MOD_STRENGTH_SHORT"] = 36,
+						["ITEM_MOD_HASTE_RATING_SHORT"] = 27,
+						["ITEM_MOD_STAMINA_SHORT"] = 54,
+					},
+					["ilvl"] = 526,
+					["link"] = "|cffa335ee|Hitem:110687:0:0:0:0:0:0:0:94:0:11:1:545|h[Ogre Belly Chain Link]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Miscellaneous",
+					["equipSlot"] = "INVTYPE_FINGER",
+					["name"] = "Ogre Belly Chain Link",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["SecondaryHandSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 37,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 22,
+						["ITEM_MOD_STAMINA_SHORT"] = 55,
+						["ITEM_MOD_CR_LIFESTEAL_SHORT"] = 21,
+						["ITEM_MOD_HASTE_RATING_SHORT"] = 26,
+						["RESISTANCE0_NAME"] = 301,
+					},
+					["ilvl"] = 530,
+					["link"] = "|cff0070dd|Hitem:110044:0:0:0:0:0:0:0:94:0:17:2:41:518|h[Ogre Dinner Plate]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Shields",
+					["equipSlot"] = "INVTYPE_SHIELD",
+					["name"] = "Ogre Dinner Plate",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["FeetSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 50,
+						["ITEM_MOD_CRIT_RATING_SHORT"] = 33,
+						["ITEM_MOD_STAMINA_SHORT"] = 75,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 33,
+						["RESISTANCE0_NAME"] = 85,
+					},
+					["ilvl"] = 531,
+					["link"] = "|cff1eff00|Hitem:112591:0:0:0:0:0:0:0:94:0:11:0|h[Foundry-Fired Plate Warboots]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_FEET",
+					["name"] = "Foundry-Fired Plate Warboots",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["WaistSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 47,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 32,
+						["ITEM_MOD_STAMINA_SHORT"] = 70,
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 30,
+						["RESISTANCE0_NAME"] = 64,
+					},
+					["ilvl"] = 525,
+					["link"] = "|cff1eff00|Hitem:112612:0:0:0:0:0:0:0:94:0:11:0|h[Foundry-Fired Plate Girdle]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_WAIST",
+					["name"] = "Foundry-Fired Plate Girdle",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["HandsSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 63,
+						["ITEM_MOD_STAMINA_SHORT"] = 94,
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 46,
+						["ITEM_MOD_HASTE_RATING_SHORT"] = 35,
+						["RESISTANCE0_NAME"] = 104,
+					},
+					["ilvl"] = 555,
+					["link"] = "|cff0070dd|Hitem:112517:0:0:0:0:0:0:0:94:0:11:0|h[Sha'tari Keeper Handguards]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_HAND",
+					["name"] = "Sha'tari Keeper Handguards",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["NeckSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_CR_MULTISTRIKE_SHORT"] = 27,
+						["ITEM_MOD_STRENGTH_SHORT"] = 42,
+						["ITEM_MOD_STAMINA_SHORT"] = 63,
+						["RESISTANCE0_NAME"] = 29,
+					},
+					["ilvl"] = 544,
+					["link"] = "|cff0070dd|Hitem:119090:0:0:0:0:0:0:0:94:0:11:1:171|h[Botani Thorn Necklace]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Miscellaneous",
+					["equipSlot"] = "INVTYPE_NECK",
+					["name"] = "Botani Thorn Necklace",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["ShoulderSlot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STRENGTH_SHORT"] = 58,
+						["ITEM_MOD_CRIT_RATING_SHORT"] = 34,
+						["ITEM_MOD_STAMINA_SHORT"] = 87,
+						["ITEM_MOD_MASTERY_RATING_SHORT"] = 41,
+						["RESISTANCE0_NAME"] = 113,
+					},
+					["ilvl"] = 547,
+					["link"] = "|cff1eff00|Hitem:112530:0:0:0:0:0:0:0:94:0:11:0|h[Sha'tari Keeper Shoulders]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Plate",
+					["equipSlot"] = "INVTYPE_SHOULDER",
+					["name"] = "Sha'tari Keeper Shoulders",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+				["Finger1Slot"] = {
+					["enchant"] = "0",
+					["stats"] = {
+						["ITEM_MOD_STAMINA_SHORT"] = 54,
+						["ITEM_MOD_STRENGTH_SHORT"] = 36,
+						["ITEM_MOD_CRIT_RATING_SHORT"] = 27,
+						["RESISTANCE0_NAME"] = 19,
+					},
+					["ilvl"] = 528,
+					["link"] = "|cff1eff00|Hitem:119068:0:0:0:0:0:0:0:94:0:11:0|h[Botani Pruner's Signet]|h|r",
+					["class"] = "Armor",
+					["subClass"] = "Miscellaneous",
+					["equipSlot"] = "INVTYPE_FINGER",
+					["name"] = "Botani Pruner's Signet",
+					["emptySockets"] = 0,
+					["upgrade"] = "0",
+					["gems"] = {
+						"0", -- [1]
+						"0", -- [2]
+						"0", -- [3]
+						"0", -- [4]
+					},
+				},
+			},
+			["level"] = 94,
+			["slotsForItems"] = 16,
+			["spec"] = "Protection",
+		}, -- [1]
+	},
+	["version"] = "1.4.10",
+	["localItemText"] = {
+		["enUS"] = {
+			["Two-Handed Maces"] = "Two-Handed Maces",
+			["Crossbows"] = "Crossbows",
+			["Mail"] = "Mail",
+			["Bows"] = "Bows",
+			["Daggers"] = "Daggers",
+			["Two-Handed Swords"] = "Two-Handed Swords",
+			["One-Handed Swords"] = "One-Handed Swords",
+			["Leather"] = "Leather",
+			["One-Handed Axes"] = "One-Handed Axes",
+			["Guns"] = "Guns",
+			["Fist Weapons"] = "Fist Weapons",
+			["Cloth"] = "Cloth",
+			["Plate"] = "Plate",
+			["One-Handed Maces"] = "One-Handed Maces",
+			["Two-Handed Axes"] = "Two-Handed Axes",
+		},
+	},
+}

@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["player"] = {
+				["Nunae"] = true,
+			},
+		},
+	},
+}

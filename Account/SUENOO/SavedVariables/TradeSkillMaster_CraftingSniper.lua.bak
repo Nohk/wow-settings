@@ -1,0 +1,17 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["ReportingEnabled"] = {
+				["Nohkimon"] = true,
+			},
+			["MyToons"] = {
+				["Nohkimon"] = {
+				},
+			},
+		},
+	},
+}

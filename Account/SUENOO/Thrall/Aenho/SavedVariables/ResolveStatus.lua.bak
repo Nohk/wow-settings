@@ -1,0 +1,17 @@
+
+ResolveStatusDB = {
+	["combat"] = false,
+	["spam"] = false,
+	["scale"] = 1,
+	["bgalpha"] = 1,
+	["border"] = false,
+	["width"] = 200,
+	["PositionX"] = 1334.00036621094,
+	["PositionY"] = 384.999694824219,
+	["fontsize"] = 12,
+	["fontpath"] = "Default",
+	["locked"] = true,
+	["height"] = 20,
+	["keepSession"] = false,
+	["instance"] = false,
+}

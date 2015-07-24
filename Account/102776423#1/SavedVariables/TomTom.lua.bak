@@ -1,0 +1,20 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Nunae - Thrall",
+	},
+	["profiles"] = {
+		["Nunae - Thrall"] = {
+		},
+	},
+}

@@ -1,0 +1,6 @@
+
+MasterPlanPC = {
+	["batchMissions"] = true,
+	["version"] = "0.16",
+	["availableMissionSort"] = "threats",
+}

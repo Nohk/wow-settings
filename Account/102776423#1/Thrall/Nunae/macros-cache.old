@@ -1,0 +1,15 @@
+VER 3 010000000000000E "Gotteshymne" "SPELL_HOLY_DIVINEHYMN"
+/s Gotteshymne läuft!
+/cast Gotteshymne
+/in 7  /s Gotteshymne vorbei
+END
+VER 3 010000000000000D "Manahymne" "SPELL_HOLY_SYMBOLOFHOPE"
+/s  Manahymne läuft!
+/wirken Hymne der Hoffnung
+/in 7  /s  Manahymne vorbei =(
+END
+VER 3 010000000000000F "RaidCDs" "INV_KNIFE_1H_THUNDERISLERAID_D_03"
+/ra 1) amonarch beide, tikkra gelassenheit, xatora totem, bruiser aurenmastery
+/ra 2) fily kuppel, lotte gotteshymne, phoenix rauchbombe, moonsk totem
+/ra 3) yazumo rauchbombe, miranda aurenmastery, nunae gotteshymne, zuhani totem
+END

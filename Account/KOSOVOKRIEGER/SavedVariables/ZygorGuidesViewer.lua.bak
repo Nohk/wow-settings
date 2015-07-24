@@ -1,0 +1,123 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Schakalakaa - Thrall"] = {
+			["maint_fetchitemdata"] = true,
+			["maint_fetchquestdata"] = true,
+			["taxis_were_update"] = true,
+			["debuglog"] = {
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaShoulderSlot|cffff88dd, |cffa335ee|Hitem:95249:4806:4611:4647:0:0:0:0:90:0:467|h[Shoulderwraps of the Haunted Forest]|h|cffff88dd got scored at |cffff000053466 (ItemScore.lua:275:Debug)", -- [1]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaBackSlot|cffff88dd, |cffa335ee|Hitem:94785:4423:0:0:0:0:0:1378004736:90:162:465|h[Shimmershell Cape]|h|cffff88dd got scored at |cffff000040272 (ItemScore.lua:275:Debug)", -- [2]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaChestSlot|cffff88dd, |cffa335ee|Hitem:95243:4419:4611:4647:4591:0:0:0:90:0:467|h[Robes of the Haunted Forest]|h|cffff88dd got scored at |cffff000068524 (ItemScore.lua:275:Debug)", -- [3]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWristSlot|cffff88dd, |cffa335ee|Hitem:96014:4414:0:0:0:0:0:499038336:90:0:467|h[Infinitely Conducting Bracers]|h|cffff88dd got scored at |cffff000045396 (ItemScore.lua:275:Debug)", -- [4]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaHandsSlot|cffff88dd, |cffa335ee|Hitem:95245:4430:4611:0:0:0:0:0:90:167:467|h[Gloves of the Haunted Forest]|h|cffff88dd got scored at |cffff000050492 (ItemScore.lua:275:Debug)", -- [5]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWaistSlot|cffff88dd, |cffa335ee|Hitem:94978:0:4647:4647:4647:0:0:2145834496:90:116:467|h[Girdle of Night and Day]|h|cffff88dd got scored at |cffff000056380 (ItemScore.lua:275:Debug)", -- [6]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaLegsSlot|cffff88dd, |cffa335ee|Hitem:95247:4825:4647:4591:0:0:0:0:90:0:467|h[Leggings of the Haunted Forest]|h|cffff88dd got scored at |cffff000067778 (ItemScore.lua:275:Debug)", -- [7]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFeetSlot|cffff88dd, |cffa335ee|Hitem:94927:4426:4647:0:0:0:0:645888512:90:117:467|h[Sandals of the Starving Eye]|h|cffff88dd got scored at |cffff000054830 (ItemScore.lua:275:Debug)", -- [8]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger0Slot|cffff88dd, |cffa335ee|Hitem:96382:0:0:0:0:0:0:1569025536:90:138:467|h[Jin'rokh's Dreamshard]|h|cffff88dd got scored at |cffff000048164 (ItemScore.lua:275:Debug)", -- [9]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger1Slot|cffff88dd, |cffa335ee|Hitem:96157:0:4591:0:0:0:0:2061717248:90:167:467|h[Ro'shak's Remembrance]|h|cffff88dd got scored at |cffff000042296 (ItemScore.lua:275:Debug)", -- [10]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket0Slot|cffff88dd, |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd got scored at |cffff000030978 (ItemScore.lua:275:Debug)", -- [11]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket1Slot|cffff88dd, |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd got scored at |cffff000028044 (ItemScore.lua:275:Debug)", -- [12]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaMainHandSlot|cffff88dd, |cffa335ee|Hitem:96464:4442:4647:4647:0:0:0:32481024:90:116:467|h[Giorgio's Caduceus of Pure Moods]|h|cffff88dd got scored at |cffff0000261335 (ItemScore.lua:275:Debug)", -- [13]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Scanning bags (ItemScore.lua:275:Debug)", -- [14]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Waist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [15]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:56536:0:0:0:0:0:0:1078989440:90:0:0|h[Lightning Lash]|h|cffff88dd scored: 18385 (ItemScore.lua:275:Debug)", -- [16]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94978:0:4647:4647:4647:0:0:2145834496:90:116:467|h[Girdle of Night and Day]|h|cffff88dd scored: 56380 (ItemScore.lua:275:Debug)", -- [17]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Waist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [18]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Wrist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [19]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Neck is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [20]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:94516:0:0:0:0:0:0:1652756224:90:166:465|h[Fortitude of the Zandalari]|h|cffff88dd scored: 25110 (ItemScore.lua:275:Debug)", -- [21]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd scored: 30978 (ItemScore.lua:275:Debug)", -- [22]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear #2 |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd scored: 28044 (ItemScore.lua:275:Debug)", -- [23]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Feet is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [24]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Legs is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [25]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Shoulder is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [26]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff Head is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [27]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:94509:0:0:0:0:0:0:0:90:0:465|h[Soothing Talisman of the Shado-Pan Assault]|h|cffff88dd scored: 39780 (ItemScore.lua:275:Debug)", -- [28]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd scored: 30978 (ItemScore.lua:275:Debug)", -- [29]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear #2 |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd scored: 28044 (ItemScore.lua:275:Debug)", -- [30]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing Weapon stuff (ItemScore.lua:275:Debug)", -- [31]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: 2h Currently Equipped (ItemScore.lua:275:Debug)", -- [32]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Removing a possible OH 4 (ItemScore.lua:275:Debug)", -- [33]
+				"23:00:01> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: |cffa335ee|Hitem:94509:0:0:0:0:0:0:0:90:0:465|h[Soothing Talisman of the Shado-Pan Assault]|h|cffff88dd pushed into Queue (ItemScore.lua:275:Debug)", -- [34]
+				"23:00:01> CacheQuestLog cached 11 quests (QuestTracking.lua:179:QuestTracking_CacheQuestLog)", -- [35]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: PLAYER_AVG_ITEM_LEVEL_READY (ItemScore.lua:275:Debug)", -- [36]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Finding current equipped. (ItemScore.lua:275:Debug)", -- [37]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaHeadSlot|cffff88dd, |cffa335ee|Hitem:95246:0:5033:4818:0:0:0:0:90:116:467|h[Cover of the Haunted Forest]|h|cffff88dd got scored at |cffff000069358 (ItemScore.lua:275:Debug)", -- [38]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaNeckSlot|cffff88dd, |cffa335ee|Hitem:96165:0:4818:0:0:0:0:1917908096:90:0:467|h[Passionfire Choker]|h|cffff88dd got scored at |cffff000045712 (ItemScore.lua:275:Debug)", -- [39]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaShoulderSlot|cffff88dd, |cffa335ee|Hitem:95249:4806:4611:4647:0:0:0:0:90:0:467|h[Shoulderwraps of the Haunted Forest]|h|cffff88dd got scored at |cffff000053466 (ItemScore.lua:275:Debug)", -- [40]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaBackSlot|cffff88dd, |cffa335ee|Hitem:94785:4423:0:0:0:0:0:1378004736:90:162:465|h[Shimmershell Cape]|h|cffff88dd got scored at |cffff000040272 (ItemScore.lua:275:Debug)", -- [41]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaChestSlot|cffff88dd, |cffa335ee|Hitem:95243:4419:4611:4647:4591:0:0:0:90:0:467|h[Robes of the Haunted Forest]|h|cffff88dd got scored at |cffff000068524 (ItemScore.lua:275:Debug)", -- [42]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWristSlot|cffff88dd, |cffa335ee|Hitem:96014:4414:0:0:0:0:0:499038336:90:0:467|h[Infinitely Conducting Bracers]|h|cffff88dd got scored at |cffff000045396 (ItemScore.lua:275:Debug)", -- [43]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaHandsSlot|cffff88dd, |cffa335ee|Hitem:95245:4430:4611:0:0:0:0:0:90:167:467|h[Gloves of the Haunted Forest]|h|cffff88dd got scored at |cffff000050492 (ItemScore.lua:275:Debug)", -- [44]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWaistSlot|cffff88dd, |cffa335ee|Hitem:94978:0:4647:4647:4647:0:0:2145834496:90:116:467|h[Girdle of Night and Day]|h|cffff88dd got scored at |cffff000056380 (ItemScore.lua:275:Debug)", -- [45]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaLegsSlot|cffff88dd, |cffa335ee|Hitem:95247:4825:4647:4591:0:0:0:0:90:0:467|h[Leggings of the Haunted Forest]|h|cffff88dd got scored at |cffff000067778 (ItemScore.lua:275:Debug)", -- [46]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFeetSlot|cffff88dd, |cffa335ee|Hitem:94927:4426:4647:0:0:0:0:645888512:90:117:467|h[Sandals of the Starving Eye]|h|cffff88dd got scored at |cffff000054830 (ItemScore.lua:275:Debug)", -- [47]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger0Slot|cffff88dd, |cffa335ee|Hitem:96382:0:0:0:0:0:0:1569025536:90:138:467|h[Jin'rokh's Dreamshard]|h|cffff88dd got scored at |cffff000048164 (ItemScore.lua:275:Debug)", -- [48]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger1Slot|cffff88dd, |cffa335ee|Hitem:96157:0:4591:0:0:0:0:2061717248:90:167:467|h[Ro'shak's Remembrance]|h|cffff88dd got scored at |cffff000042296 (ItemScore.lua:275:Debug)", -- [49]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket0Slot|cffff88dd, |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd got scored at |cffff000030978 (ItemScore.lua:275:Debug)", -- [50]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket1Slot|cffff88dd, |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd got scored at |cffff000028044 (ItemScore.lua:275:Debug)", -- [51]
+				"23:00:02> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaMainHandSlot|cffff88dd, |cffa335ee|Hitem:96464:4442:4647:4647:0:0:0:32481024:90:116:467|h[Giorgio's Caduceus of Pure Moods]|h|cffff88dd got scored at |cffff0000261335 (ItemScore.lua:275:Debug)", -- [52]
+				"23:00:03> Guides loaded. --------- (ZygorGuidesViewer.lua:3999:<local>)", -- [53]
+				"23:00:03> Querying for quests... (ZygorGuidesViewer.lua:4001:<local>)", -- [54]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: BAG_UPDATE_DELAYED (ItemScore.lua:275:Debug)", -- [55]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Finding current equipped. (ItemScore.lua:275:Debug)", -- [56]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaHeadSlot|cffff88dd, |cffa335ee|Hitem:95246:0:5033:4818:0:0:0:0:90:116:467|h[Cover of the Haunted Forest]|h|cffff88dd got scored at |cffff000069358 (ItemScore.lua:275:Debug)", -- [57]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaNeckSlot|cffff88dd, |cffa335ee|Hitem:96165:0:4818:0:0:0:0:1917908096:90:0:467|h[Passionfire Choker]|h|cffff88dd got scored at |cffff000045712 (ItemScore.lua:275:Debug)", -- [58]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaShoulderSlot|cffff88dd, |cffa335ee|Hitem:95249:4806:4611:4647:0:0:0:0:90:0:467|h[Shoulderwraps of the Haunted Forest]|h|cffff88dd got scored at |cffff000053466 (ItemScore.lua:275:Debug)", -- [59]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaBackSlot|cffff88dd, |cffa335ee|Hitem:94785:4423:0:0:0:0:0:1378004736:90:162:465|h[Shimmershell Cape]|h|cffff88dd got scored at |cffff000040272 (ItemScore.lua:275:Debug)", -- [60]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaChestSlot|cffff88dd, |cffa335ee|Hitem:95243:4419:4611:4647:4591:0:0:0:90:0:467|h[Robes of the Haunted Forest]|h|cffff88dd got scored at |cffff000068524 (ItemScore.lua:275:Debug)", -- [61]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWristSlot|cffff88dd, |cffa335ee|Hitem:96014:4414:0:0:0:0:0:499038336:90:0:467|h[Infinitely Conducting Bracers]|h|cffff88dd got scored at |cffff000045396 (ItemScore.lua:275:Debug)", -- [62]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaHandsSlot|cffff88dd, |cffa335ee|Hitem:95245:4430:4611:0:0:0:0:0:90:167:467|h[Gloves of the Haunted Forest]|h|cffff88dd got scored at |cffff000050492 (ItemScore.lua:275:Debug)", -- [63]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaWaistSlot|cffff88dd, |cffa335ee|Hitem:94978:0:4647:4647:4647:0:0:2145834496:90:116:467|h[Girdle of Night and Day]|h|cffff88dd got scored at |cffff000056380 (ItemScore.lua:275:Debug)", -- [64]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaLegsSlot|cffff88dd, |cffa335ee|Hitem:95247:4825:4647:4591:0:0:0:0:90:0:467|h[Leggings of the Haunted Forest]|h|cffff88dd got scored at |cffff000067778 (ItemScore.lua:275:Debug)", -- [65]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFeetSlot|cffff88dd, |cffa335ee|Hitem:94927:4426:4647:0:0:0:0:645888512:90:117:467|h[Sandals of the Starving Eye]|h|cffff88dd got scored at |cffff000054830 (ItemScore.lua:275:Debug)", -- [66]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger0Slot|cffff88dd, |cffa335ee|Hitem:96382:0:0:0:0:0:0:1569025536:90:138:467|h[Jin'rokh's Dreamshard]|h|cffff88dd got scored at |cffff000048164 (ItemScore.lua:275:Debug)", -- [67]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaFinger1Slot|cffff88dd, |cffa335ee|Hitem:96157:0:4591:0:0:0:0:2061717248:90:167:467|h[Ro'shak's Remembrance]|h|cffff88dd got scored at |cffff000042296 (ItemScore.lua:275:Debug)", -- [68]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket0Slot|cffff88dd, |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd got scored at |cffff000030978 (ItemScore.lua:275:Debug)", -- [69]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaTrinket1Slot|cffff88dd, |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd got scored at |cffff000028044 (ItemScore.lua:275:Debug)", -- [70]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: In slot |cffaaffaaMainHandSlot|cffff88dd, |cffa335ee|Hitem:96464:4442:4647:4647:0:0:0:32481024:90:116:467|h[Giorgio's Caduceus of Pure Moods]|h|cffff88dd got scored at |cffff0000261335 (ItemScore.lua:275:Debug)", -- [71]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Scanning bags (ItemScore.lua:275:Debug)", -- [72]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Waist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [73]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:56536:0:0:0:0:0:0:1078989440:90:0:0|h[Lightning Lash]|h|cffff88dd scored: 18385 (ItemScore.lua:275:Debug)", -- [74]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94978:0:4647:4647:4647:0:0:2145834496:90:116:467|h[Girdle of Night and Day]|h|cffff88dd scored: 56380 (ItemScore.lua:275:Debug)", -- [75]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Waist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [76]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Wrist is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [77]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Neck is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [78]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:94516:0:0:0:0:0:0:1652756224:90:166:465|h[Fortitude of the Zandalari]|h|cffff88dd scored: 25110 (ItemScore.lua:275:Debug)", -- [79]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd scored: 30978 (ItemScore.lua:275:Debug)", -- [80]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear #2 |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd scored: 28044 (ItemScore.lua:275:Debug)", -- [81]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Feet is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [82]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Legs is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [83]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Shoulder is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [84]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff Head is available and we tried to test for it. If we can actually use it then do something with it. (ItemScore.lua:275:Debug)", -- [85]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing |cffa335ee|Hitem:94509:0:0:0:0:0:0:0:90:0:465|h[Soothing Talisman of the Shado-Pan Assault]|h|cffff88dd scored: 39780 (ItemScore.lua:275:Debug)", -- [86]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear |cffa335ee|Hitem:94521:0:0:0:0:0:0:681388160:90:152:467|h[Breath of the Hydra]|h|cffff88dd scored: 30978 (ItemScore.lua:275:Debug)", -- [87]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Current gear #2 |cffa335ee|Hitem:94531:0:0:0:0:0:0:2060408064:90:0:467|h[Cha-Ye's Essence of Brilliance]|h|cffff88dd scored: 28044 (ItemScore.lua:275:Debug)", -- [88]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Testing Weapon stuff (ItemScore.lua:275:Debug)", -- [89]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: 2h Currently Equipped (ItemScore.lua:275:Debug)", -- [90]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: Removing a possible OH 4 (ItemScore.lua:275:Debug)", -- [91]
+				"23:00:03> |cffffdd00ItemScore>|cfff8f0ff AutoEquip: |cffa335ee|Hitem:94509:0:0:0:0:0:0:0:90:0:465|h[Soothing Talisman of the Shado-Pan Assault]|h|cffff88dd pushed into Queue (ItemScore.lua:275:Debug)", -- [92]
+				"23:00:03> CacheQuestLog cached 11 quests (QuestTracking.lua:179:QuestTracking_CacheQuestLog)", -- [93]
+				"23:00:06> Startup complete. (ZygorGuidesViewer.lua:4054:StartupStep)", -- [94]
+				"23:00:07> CacheQuestLog cached 11 quests (QuestTracking.lua:179:QuestTracking_CacheQuestLog)", -- [95]
+				"23:00:09> ZONE_CHANGED_NEW_AREA (not dead) (Pointer.lua:1252:<local>)", -- [96]
+				"23:00:09> [pointer] ClearWaypoints corpse (Pointer.lua:520:ClearWaypoints)", -- [97]
+				"23:00:09> [LibRover] No route found. (LibRover-1.0.lua:2416:Debug)", -- [98]
+				"23:00:09> [LibRover] LibRover stopping gracefully, will update (LibRover-1.0.lua:2416:Debug)", -- [99]
+				"23:00:11> |cffffdd00ItemScore>|cfff8f0ff ItemScore caching DONE. (ItemScore.lua:275:Debug)", -- [100]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Schakalakaa - Thrall",
+	},
+	["profiles"] = {
+		["Schakalakaa - Thrall"] = {
+			["tmp__was_sheened"] = true,
+			["visible"] = false,
+			["magickey_bind"] = "",
+			["skipauxsteps"] = true,
+		},
+	},
+}

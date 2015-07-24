@@ -1,0 +1,16 @@
+
+TradeSkillMaster_CompetitorTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["loginTime"] = 1378734092,
+			["logoutTime"] = 1378734225,
+		},
+	},
+}

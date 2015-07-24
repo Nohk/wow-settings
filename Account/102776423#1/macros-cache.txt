@@ -1,0 +1,23 @@
+VER 3 0000000000000007 "/tar Garrosh" "INV_MISC_QUESTIONMARK"
+/tar General Nazgrim
+END
+VER 3 0000000000000006 "Gildenwerbung" "Ability_Monk_ZenMeditation"
+/2 Wir, die Gilde CookieMonsterz suchen noch Verstärkung für 5.4! Besonders gesucht wären 1 Magier, 1 Shadow und 1 Eule, aber auch andere. Gear sollte SoO angemessen sein. Raidzeiten sind Mi, Do und So von 18:45-22:00 Uhr, 6/14 SoO im 25er.
+END
+VER 3 0000000000000002 "huhn" "INV_MISC_QUESTIONMARK"
+/knien
+END
+VER 3 0000000000000003 "huhn2" "INV_ENCHANT_SHARDGLIMMERINGLARGE"
+/chicken
+END
+VER 3 0000000000000004 "kiss" "INV_WAND_1H_DEATHWINGRAID_D_02"
+END
+VER 3 0000000000000001 "mitleid" "Ability_Creature_Cursed_01"
+/bemitleiden
+END
+VER 3 0000000000000008 "TS" "Ability_Mage_ConjureFoodRank9"
+/ra 212.224.120.24:12236 pw: norushen
+END
+VER 3 0000000000000005 "Werbung Mentor" "ACHIEVEMENT_GUILDPERK_HASTYHEARTH"
+/2 suchen 1 Magier für SoO 25er (Mi, Do und So), ilvl min 520, min 6 Bosse geplant.
+END

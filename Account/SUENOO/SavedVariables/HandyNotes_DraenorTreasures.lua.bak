@@ -1,0 +1,10 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Nohktarogar - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,149 @@
+
+rosterSize = 13
+rosterCache = {
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PRIEST",
+		["reference"] = "raid1",
+		["mia"] = 0,
+		["name"] = "Nunae",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [1]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "DEATHKNIGHT",
+		["reference"] = "raid2",
+		["mia"] = 0,
+		["name"] = "Bresal",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [2]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PALADIN",
+		["reference"] = "raid3",
+		["mia"] = 0,
+		["name"] = "Sûmi",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [3]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PRIEST",
+		["reference"] = "raid4",
+		["mia"] = 0,
+		["name"] = "Rainbowrose",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [4]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "SHAMAN",
+		["reference"] = "raid5",
+		["mia"] = 0,
+		["name"] = "Fyzu",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [5]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PRIEST",
+		["reference"] = "raid6",
+		["mia"] = 0,
+		["name"] = "Salvathalion",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [6]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "SHAMAN",
+		["reference"] = "raid7",
+		["mia"] = 0,
+		["name"] = "Miralie",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [7]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "HUNTER",
+		["reference"] = "raid8",
+		["mia"] = 0,
+		["name"] = "Phony",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [8]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PALADIN",
+		["reference"] = "raid9",
+		["mia"] = 0,
+		["name"] = "Taciter",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [9]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "SHAMAN",
+		["reference"] = "raid10",
+		["mia"] = 0,
+		["name"] = "Moonsk",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [10]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "PALADIN",
+		["reference"] = "raid11",
+		["mia"] = 0,
+		["name"] = "Syneptikâ",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [11]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "SHAMAN",
+		["reference"] = "raid12",
+		["mia"] = 0,
+		["name"] = "Rotbahrt",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [12]
+}
+workingRoster = nil

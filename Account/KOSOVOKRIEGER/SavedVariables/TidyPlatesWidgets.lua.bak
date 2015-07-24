@@ -1,0 +1,13 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+		["Training Dummy"] = "|cff3fbf3f85|r Mechanical",
+		["Kor'kron Overseer"] = "|cffffff0091|r|cffAF5050+|r Humanoid",
+	},
+	["UnitGuild"] = {
+	},
+}

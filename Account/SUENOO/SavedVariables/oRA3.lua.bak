@@ -1,0 +1,41 @@
+
+oRA3DB = {
+	["namespaces"] = {
+		["BattleRes"] = {
+		},
+		["Invite"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["ReadyCheck"] = {
+		},
+		["Difficulty"] = {
+		},
+		["Loot"] = {
+		},
+		["Promote"] = {
+		},
+		["Cooldowns"] = {
+			["profiles"] = {
+				["Nohk"] = {
+					["showDisplay"] = false,
+				},
+			},
+		},
+		["Tanks"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkout - Thrall"] = "Nohk",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["lastSelectedList"] = 2,
+			["lastSelectedPanel"] = "Checks",
+		},
+		["Nohk"] = {
+			["lastSelectedList"] = 2,
+			["lastSelectedPanel"] = "Checks",
+		},
+	},
+}

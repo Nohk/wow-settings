@@ -1,0 +1,24 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.1.6",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Nohkan - Thrall",
+	},
+	["profiles"] = {
+		["Nohkan - Thrall"] = {
+		},
+	},
+}

@@ -1,0 +1,37 @@
+
+AucAdvancedConfig = {
+	["users.Thrall.Schakalakaa"] = "Default",
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["SavedMailButtons"] = {
+				},
+			},
+			["pricelevel"] = {
+			},
+		},
+	},
+	["version"] = 1,
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Thrall"] = "Schakalakaa",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

@@ -1,0 +1,53 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohk",
+	},
+	["profiles"] = {
+		["Nohk"] = {
+			[951] = {
+				["951:0:350400000:294500000:Three-Breeze Terrace"] = {
+					951, -- [1]
+					0, -- [2]
+					0.3504, -- [3]
+					0.2945, -- [4]
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Three-Breeze Terrace",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["world"] = true,
+				},
+			},
+		},
+		["Nohkimon - Thrall"] = {
+		},
+	},
+}

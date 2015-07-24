@@ -1,0 +1,11 @@
+
+TradeSkillMasterDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["infoMessage"] = 10,
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+MacroToolkitDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "profile",
+	},
+	["profiles"] = {
+		["profile"] = {
+		},
+	},
+}

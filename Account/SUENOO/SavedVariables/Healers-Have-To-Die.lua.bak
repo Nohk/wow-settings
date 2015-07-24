@@ -1,0 +1,15 @@
+
+Healers_Have_To_Die = {
+	["namespaces"] = {
+		["Announcer"] = {
+			["global"] = {
+				["PostToChat"] = true,
+			},
+		},
+		["NPH"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+}

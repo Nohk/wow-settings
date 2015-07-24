@@ -1,0 +1,55 @@
+VER 3 0100000000000008 "Anspringen/Zerma" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [stance:3] Anspringen
+/cast [stance:1] Zermalmen
+END
+VER 3 010000000000000A "Boom!" "Ability_Druid_Berserk"
+#showtooltip Berserker(Katzen- oder Bärengestalt)
+/use 13
+/cast Berserker(Katzen- oder Bärengestalt)
+END
+VER 3 0100000000000004 "Feral" "Ability_Druid_CatForm"
+/run LibStub("AceAddon-3.0"):GetAddon("Quartz3").db:SetProfile("Aeryo DD")
+/equipset Feral
+END
+VER 3 0100000000000003 "FF" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [nostance][stance:2/4/5] Feenfeuer
+/cast [stance:1/3] Feenfeuer (Tiergestalt)(Katzen- oder Bärengestalt)
+END
+VER 3 0100000000000007 "Kralle" "INV_Misc_QuestionMark"
+#showtooltip Krallenhieb
+/use 13
+/use 14
+/cast Krallenhieb
+END
+VER 3 010000000000000D "Miau!" "SPELL_MISC_PETHEAL"
+/s Miau!
+END
+VER 3 010000000000000B "neu" "INV_Misc_QuestionMark"
+END
+VER 3 0100000000000006 "Prakenhieb" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [stance:3] Prankenhieb(Katzengestalt)
+/cast [stance:1] Prankenhieb(Bärengestalt)
+END
+VER 3 010000000000000C "PVP" "INV_Misc_QuestionMark"
+#showtooltip Krallenhieb
+/use 13
+/cast Krallenhieb
+END
+VER 3 0100000000000005 "Resto" "Ability_Druid_TreeofLife"
+/run LibStub("AceAddon-3.0"):GetAddon("Quartz3").db:SetProfile("Aeryo Heal")
+/equipset Resto
+END
+VER 3 0100000000000009 "Roar" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [stance:3] Anstachelndes Brüllen(Katzengestalt)
+/cast [stance:1] Anstachelndes Brüllen(Bärengestalt)
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Hunter_ExplosiveShot"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Hunter_ExplosiveShot"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Aer[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

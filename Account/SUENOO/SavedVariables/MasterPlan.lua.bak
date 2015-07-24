@@ -1,0 +1,11 @@
+
+MasterPlanConfig = {
+	["version"] = "0.7",
+	["availableMissionSort"] = "threats",
+}
+MasterPlanData = {
+	["Thrall#Nohko"] = {
+		[140] = 1417463700,
+		[367] = 1417463700,
+	},
+}

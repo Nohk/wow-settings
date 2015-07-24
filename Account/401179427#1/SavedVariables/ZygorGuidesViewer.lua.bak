@@ -1,0 +1,131 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Nohkan - Thrall"] = {
+			["taxis_were_update"] = true,
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "LEVELING\\Eastern Kingdoms 1-60\\Tirisfal Glades (1-11)\\Undead (1-11)",
+			["guides_history_ZGV4clear"] = true,
+			["debuglog"] = {
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [1]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [2]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [3]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [4]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [5]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [6]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [7]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [8]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [9]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [10]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [11]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [12]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [13]
+				"19:15:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [14]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [15]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [16]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [17]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [18]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [19]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [20]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [21]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [22]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [23]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [24]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [25]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [26]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [27]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [28]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [29]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [30]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [31]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [32]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [33]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [34]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [35]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [36]
+				"19:15:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [37]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [38]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [39]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [40]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [41]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [42]
+				"19:15:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [43]
+				"19:15:43> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [44]
+				"19:15:44> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [45]
+				"19:15:45> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [46]
+				"19:15:46> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [47]
+				"19:15:47> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [48]
+				"19:15:48> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [49]
+				"19:15:49> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [50]
+				"19:15:50> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [51]
+				"19:15:52> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [52]
+				"19:15:53> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [53]
+				"19:15:54> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [54]
+				"19:15:55> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [55]
+				"19:15:56> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [56]
+				"19:15:57> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [57]
+				"19:15:58> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [58]
+				"19:15:59> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [59]
+				"19:16:00> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [60]
+				"19:16:01> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [61]
+				"19:16:02> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [62]
+				"19:16:03> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [63]
+				"19:16:04> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [64]
+				"19:16:05> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [65]
+				"19:16:06> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [66]
+				"19:16:07> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [67]
+				"19:16:08> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [68]
+				"19:16:09> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [69]
+				"19:16:10> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [70]
+				"19:16:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [71]
+				"19:16:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [72]
+				"19:16:13> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [73]
+				"19:16:15> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [74]
+				"19:16:16> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [75]
+				"19:16:17> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [76]
+				"19:16:18> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [77]
+				"19:16:19> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [78]
+				"19:16:20> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [79]
+				"19:16:21> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [80]
+				"19:16:22> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [81]
+				"19:16:23> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [82]
+				"19:16:24> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [83]
+				"19:16:25> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [84]
+				"19:16:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [85]
+				"19:16:27> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [86]
+				"19:16:28> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [87]
+				"19:16:28> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [88]
+				"19:16:29> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [89]
+				"19:16:31> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [90]
+				"19:16:32> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [91]
+				"19:16:33> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [92]
+				"19:16:34> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [93]
+				"19:16:35> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [94]
+				"19:16:36> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [95]
+				"19:16:37> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [96]
+				"19:16:38> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [97]
+				"19:16:39> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [98]
+				"19:16:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [99]
+				"19:16:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [100]
+			},
+			["guides_history"] = {
+				["LEVELING"] = {
+					"LEVELING\\Eastern Kingdoms 1-60\\Tirisfal Glades (1-11)\\Undead (1-11)", -- [1]
+					1, -- [2]
+				},
+			},
+			["maint_fetchitemdata"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Nohkan - Thrall",
+	},
+	["profiles"] = {
+		["Nohkan - Thrall"] = {
+			["tmp__was_sheened"] = true,
+			["magickey_bind"] = "",
+			["ranconfig"] = true,
+			["skipauxsteps"] = true,
+		},
+	},
+}

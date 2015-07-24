@@ -1,0 +1,32 @@
+
+TradeSkillMaster_ItemTrackerDB = {
+	["profileKeys"] = {
+		["Nohkan - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["characters"] = {
+				["Nohkan"] = {
+					["mailInbox"] = {
+					},
+					["account"] = "Thrall482769528",
+					["lastUpdate"] = {
+						["guild"] = 1385921627,
+						["mail"] = 0,
+						["bags"] = 0,
+						["auctions"] = 0,
+						["bank"] = 0,
+					},
+					["mail"] = {
+					},
+					["bags"] = {
+					},
+					["auctions"] = {
+					},
+					["bank"] = {
+					},
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,1652 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["log"] = {
+			["profiles"] = {
+				["CookieMonsterz"] = {
+					["snapshot"] = {
+						["guild_info"] = "@DECAY_P:10\n@EXTRAS_P:50\n@MIN_EP:24000\n@BASE_GP:300",
+						["time"] = 1379460000,
+						["roster_info"] = {
+							{
+								"Genscher", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [1]
+							{
+								"Wehselbalc", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [2]
+							{
+								"Tirîon", -- [1]
+								"ROGUE", -- [2]
+								"0,0", -- [3]
+							}, -- [3]
+							{
+								"Tschernebog", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [4]
+							{
+								"Viuviu", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [5]
+							{
+								"Celufin", -- [1]
+								"PRIEST", -- [2]
+								"Yazumo", -- [3]
+							}, -- [6]
+							{
+								"Sensual", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [7]
+							{
+								"Zalma", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [8]
+							{
+								"Mîrandá", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [9]
+							{
+								"Ragaldin", -- [1]
+								"WARRIOR", -- [2]
+								"39500,600", -- [3]
+							}, -- [10]
+							{
+								"Sokah", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [11]
+							{
+								"Vegilol", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [12]
+							{
+								"Shaggadelic", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [13]
+							{
+								"Semikosher", -- [1]
+								"PRIEST", -- [2]
+								"Trîxîe", -- [3]
+							}, -- [14]
+							{
+								"Malijin", -- [1]
+								"WARRIOR", -- [2]
+								"Eeli", -- [3]
+							}, -- [15]
+							{
+								"Bridenkorn", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [16]
+							{
+								"Câron", -- [1]
+								"DRUID", -- [2]
+								"", -- [3]
+							}, -- [17]
+							{
+								"Hyoriinmaru", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [18]
+							{
+								"Haurô", -- [1]
+								"PRIEST", -- [2]
+								"Áléxís", -- [3]
+							}, -- [19]
+							{
+								"Mageinchina", -- [1]
+								"WARLOCK", -- [2]
+								"Rollchn", -- [3]
+							}, -- [20]
+							{
+								"Allspark", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [21]
+							{
+								"Kheldos", -- [1]
+								"WARRIOR", -- [2]
+								"20500,1055", -- [3]
+							}, -- [22]
+							{
+								"Rhydry", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [23]
+							{
+								"Mánu", -- [1]
+								"DRUID", -- [2]
+								"39500,1100", -- [3]
+							}, -- [24]
+							{
+								"Sâmbâ", -- [1]
+								"WARRIOR", -- [2]
+								"jobull for notank xD", -- [3]
+							}, -- [25]
+							{
+								"Neothak", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [26]
+							{
+								"Tecná", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [27]
+							{
+								"Ruserus", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Olafxx", -- [3]
+							}, -- [28]
+							{
+								"Büxe", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [29]
+							{
+								"Intensé", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [30]
+							{
+								"Sefiera", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [31]
+							{
+								"Kulán", -- [1]
+								"WARRIOR", -- [2]
+								"Mîrandá", -- [3]
+							}, -- [32]
+							{
+								"Môku", -- [1]
+								"DRUID", -- [2]
+								"Forsythe", -- [3]
+							}, -- [33]
+							{
+								"Lairâ", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [34]
+							{
+								"Cumhonorface", -- [1]
+								"ROGUE", -- [2]
+								"Laygord", -- [3]
+							}, -- [35]
+							{
+								"Spinningtree", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [36]
+							{
+								"Shamora", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [37]
+							{
+								"Gyr", -- [1]
+								"PALADIN", -- [2]
+								"Zuhani", -- [3]
+							}, -- [38]
+							{
+								"Pandadame", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [39]
+							{
+								"Sângó", -- [1]
+								"WARLOCK", -- [2]
+								"Áléxís", -- [3]
+							}, -- [40]
+							{
+								"Soitsu", -- [1]
+								"PRIEST", -- [2]
+								"Hagrasu", -- [3]
+							}, -- [41]
+							{
+								"Pæiñ", -- [1]
+								"WARLOCK", -- [2]
+								"34000,1880", -- [3]
+							}, -- [42]
+							{
+								"Solaire", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [43]
+							{
+								"Eeli", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [44]
+							{
+								"Saatinchen", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [45]
+							{
+								"Shîon", -- [1]
+								"PALADIN", -- [2]
+								"15500,750", -- [3]
+							}, -- [46]
+							{
+								"Jingjing", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [47]
+							{
+								"Relaija", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [48]
+							{
+								"Pallania", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [49]
+							{
+								"Hagrasu", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [50]
+							{
+								"Prosâc", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [51]
+							{
+								"Cinori", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [52]
+							{
+								"Pandalös", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [53]
+							{
+								"Esmérallda", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [54]
+							{
+								"Gorlock", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [55]
+							{
+								"Rylgan", -- [1]
+								"PRIEST", -- [2]
+								"Snizzelin", -- [3]
+							}, -- [56]
+							{
+								"Feardotlaugh", -- [1]
+								"WARLOCK", -- [2]
+								"Koffeinfrei", -- [3]
+							}, -- [57]
+							{
+								"Brutalko", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [58]
+							{
+								"Alith", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [59]
+							{
+								"Xorosh", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [60]
+							{
+								"Miralie", -- [1]
+								"SHAMAN", -- [2]
+								"39500,587", -- [3]
+							}, -- [61]
+							{
+								"Ryy", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [62]
+							{
+								"Nohk", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [63]
+							{
+								"Facerollwin", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Rotting", -- [3]
+							}, -- [64]
+							{
+								"Greenlane", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [65]
+							{
+								"Mániax", -- [1]
+								"PRIEST", -- [2]
+								"Schakalakaa", -- [3]
+							}, -- [66]
+							{
+								"Anrakyr", -- [1]
+								"WARLOCK", -- [2]
+								"Kaliyo", -- [3]
+							}, -- [67]
+							{
+								"Myruko", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [68]
+							{
+								"Vilely", -- [1]
+								"MAGE", -- [2]
+								"Rhydry", -- [3]
+							}, -- [69]
+							{
+								"Thrâsher", -- [1]
+								"HUNTER", -- [2]
+								"Rotting", -- [3]
+							}, -- [70]
+							{
+								"Malakái", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [71]
+							{
+								"Zuvo", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [72]
+							{
+								"Azaar", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [73]
+							{
+								"Kaapee", -- [1]
+								"WARLOCK", -- [2]
+								"Mánu", -- [3]
+							}, -- [74]
+							{
+								"Seezle", -- [1]
+								"PRIEST", -- [2]
+								"Eeli", -- [3]
+							}, -- [75]
+							{
+								"Dollybooster", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Fyzu", -- [3]
+							}, -- [76]
+							{
+								"Mînî", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [77]
+							{
+								"Yoio", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [78]
+							{
+								"Trîxîe", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"34000,0", -- [3]
+							}, -- [79]
+							{
+								"Dorosh", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [80]
+							{
+								"Tyreaz", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [81]
+							{
+								"Eléctrá", -- [1]
+								"ROGUE", -- [2]
+								"Áléxís", -- [3]
+							}, -- [82]
+							{
+								"Ellunya", -- [1]
+								"PALADIN", -- [2]
+								"Saatinchen", -- [3]
+							}, -- [83]
+							{
+								"Lêgolass", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [84]
+							{
+								"Mechaboy", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [85]
+							{
+								"Sliphed", -- [1]
+								"MONK", -- [2]
+								"Trîxîe", -- [3]
+							}, -- [86]
+							{
+								"Ineri", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [87]
+							{
+								"Lunîta", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [88]
+							{
+								"Sárana", -- [1]
+								"PALADIN", -- [2]
+								"Kôr", -- [3]
+							}, -- [89]
+							{
+								"Berudual", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [90]
+							{
+								"Akho", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [91]
+							{
+								"Forklift", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"15500,500", -- [3]
+							}, -- [92]
+							{
+								"Iuris", -- [1]
+								"PRIEST", -- [2]
+								"Rotting", -- [3]
+							}, -- [93]
+							{
+								"Flaumkin", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [94]
+							{
+								"Lunadeen", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [95]
+							{
+								"Senj", -- [1]
+								"MONK", -- [2]
+								"Siscia", -- [3]
+							}, -- [96]
+							{
+								"Rollchn", -- [1]
+								"MONK", -- [2]
+								"39500,1250", -- [3]
+							}, -- [97]
+							{
+								"Eaglestone", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [98]
+							{
+								"Heiny", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [99]
+							{
+								"Magnetic", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [100]
+							{
+								"Grabscha", -- [1]
+								"ROGUE", -- [2]
+								"Monkinhonk", -- [3]
+							}, -- [101]
+							{
+								"Katarn", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [102]
+							{
+								"Shaikira", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [103]
+							{
+								"Aúrón", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [104]
+							{
+								"Mazuga", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [105]
+							{
+								"Shíek", -- [1]
+								"ROGUE", -- [2]
+								"6000,0", -- [3]
+							}, -- [106]
+							{
+								"Elilgawen", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [107]
+							{
+								"Fisiuxo", -- [1]
+								"SHAMAN", -- [2]
+								"Yagaman", -- [3]
+							}, -- [108]
+							{
+								"Fandal", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [109]
+							{
+								"Rumos", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [110]
+							{
+								"Yovas", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [111]
+							{
+								"Arleigh", -- [1]
+								"PRIEST", -- [2]
+								"Zuhani", -- [3]
+							}, -- [112]
+							{
+								"Druson", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [113]
+							{
+								"Saruba", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [114]
+							{
+								"Zisso", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [115]
+							{
+								"Taciter", -- [1]
+								"PALADIN", -- [2]
+								"6000,0", -- [3]
+							}, -- [116]
+							{
+								"Asantria", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [117]
+							{
+								"Kryptator", -- [1]
+								"WARLOCK", -- [2]
+								"Rhydry", -- [3]
+							}, -- [118]
+							{
+								"Tarsatica", -- [1]
+								"PALADIN", -- [2]
+								"Siscia", -- [3]
+							}, -- [119]
+							{
+								"Nementona", -- [1]
+								"DRUID", -- [2]
+								"Bullguârd", -- [3]
+							}, -- [120]
+							{
+								"Moshmaid", -- [1]
+								"DRUID", -- [2]
+								"Rotting", -- [3]
+							}, -- [121]
+							{
+								"Achtungg", -- [1]
+								"WARRIOR", -- [2]
+								"Pallania", -- [3]
+							}, -- [122]
+							{
+								"Emael", -- [1]
+								"WARLOCK", -- [2]
+								"76250,9590", -- [3]
+							}, -- [123]
+							{
+								"Lancelôt", -- [1]
+								"PALADIN", -- [2]
+								"Koffeinfrei", -- [3]
+							}, -- [124]
+							{
+								"Jinwu", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [125]
+							{
+								"Elanel", -- [1]
+								"WARLOCK", -- [2]
+								"Filyina", -- [3]
+							}, -- [126]
+							{
+								"Khali", -- [1]
+								"ROGUE", -- [2]
+								"Kheldos", -- [3]
+							}, -- [127]
+							{
+								"Frômhell", -- [1]
+								"WARLOCK", -- [2]
+								"Broul", -- [3]
+							}, -- [128]
+							{
+								"Zwaggel", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [129]
+							{
+								"Shigeru", -- [1]
+								"MAGE", -- [2]
+								"16000,0", -- [3]
+							}, -- [130]
+							{
+								"Hørg", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [131]
+							{
+								"Rodmann", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [132]
+							{
+								"Eurytheus", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [133]
+							{
+								"Tídús", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [134]
+							{
+								"Léxa", -- [1]
+								"PALADIN", -- [2]
+								"Trîxîe", -- [3]
+							}, -- [135]
+							{
+								"Seriande", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [136]
+							{
+								"Aenho", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [137]
+							{
+								"Olafxx", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [138]
+							{
+								"Coxblob", -- [1]
+								"PALADIN", -- [2]
+								"Seriande", -- [3]
+							}, -- [139]
+							{
+								"Jôhnrambo", -- [1]
+								"ROGUE", -- [2]
+								"Rotting", -- [3]
+							}, -- [140]
+							{
+								"Trami", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [141]
+							{
+								"Elrandir", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [142]
+							{
+								"Komoto", -- [1]
+								"DRUID", -- [2]
+								"Komata", -- [3]
+							}, -- [143]
+							{
+								"Áléxís", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [144]
+							{
+								"Dàrkcyber", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [145]
+							{
+								"Daruvar", -- [1]
+								"SHAMAN", -- [2]
+								"Siscia", -- [3]
+							}, -- [146]
+							{
+								"Gratztak", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [147]
+							{
+								"Nóír", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [148]
+							{
+								"Frostitude", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [149]
+							{
+								"Mutschke", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [150]
+							{
+								"Athenad", -- [1]
+								"WARLOCK", -- [2]
+								"Aldax", -- [3]
+							}, -- [151]
+							{
+								"Valerien", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [152]
+							{
+								"Piou", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [153]
+							{
+								"Salvathalion", -- [1]
+								"PRIEST", -- [2]
+								"28000,500", -- [3]
+							}, -- [154]
+							{
+								"Janovi", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [155]
+							{
+								"Karabash", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [156]
+							{
+								"Frostbitten", -- [1]
+								"MAGE", -- [2]
+								"Rotting", -- [3]
+							}, -- [157]
+							{
+								"Chêster", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [158]
+							{
+								"Mihàwk", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [159]
+							{
+								"Cedrac", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [160]
+							{
+								"Nirolac", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [161]
+							{
+								"Paragoon", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [162]
+							{
+								"Bullwind", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [163]
+							{
+								"Yazumo", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [164]
+							{
+								"Aldax", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [165]
+							{
+								"Rullena", -- [1]
+								"WARRIOR", -- [2]
+								"Baluna", -- [3]
+							}, -- [166]
+							{
+								"Cazimir", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Zuhani", -- [3]
+							}, -- [167]
+							{
+								"Machsiealle", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [168]
+							{
+								"Shamburger", -- [1]
+								"SHAMAN", -- [2]
+								"Semikosher", -- [3]
+							}, -- [169]
+							{
+								"Snizzl", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [170]
+							{
+								"Kamshot", -- [1]
+								"HUNTER", -- [2]
+								"Jefray", -- [3]
+							}, -- [171]
+							{
+								"Phie", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [172]
+							{
+								"Spinning", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [173]
+							{
+								"Zheilan", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [174]
+							{
+								"Bresal", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [175]
+							{
+								"Shafu", -- [1]
+								"MONK", -- [2]
+								"Salsâ", -- [3]
+							}, -- [176]
+							{
+								"Gripuck", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [177]
+							{
+								"Bullguârd", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [178]
+							{
+								"Yulivae", -- [1]
+								"SHAMAN", -- [2]
+								"Saryala", -- [3]
+							}, -- [179]
+							{
+								"Nohkimon", -- [1]
+								"WARLOCK", -- [2]
+								"15500,0", -- [3]
+							}, -- [180]
+							{
+								"Owlin", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [181]
+							{
+								"Istria", -- [1]
+								"MAGE", -- [2]
+								"Siscia", -- [3]
+							}, -- [182]
+							{
+								"Birania", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [183]
+							{
+								"Anxiety", -- [1]
+								"PRIEST", -- [2]
+								"Jefray", -- [3]
+							}, -- [184]
+							{
+								"Plaguebone", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [185]
+							{
+								"Atømflunder", -- [1]
+								"ROGUE", -- [2]
+								"Zwaggel", -- [3]
+							}, -- [186]
+							{
+								"Nunae", -- [1]
+								"PRIEST", -- [2]
+								"39500,587", -- [3]
+							}, -- [187]
+							{
+								"Rotting", -- [1]
+								"WARLOCK", -- [2]
+								"39500,1250", -- [3]
+							}, -- [188]
+							{
+								"Filyina", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [189]
+							{
+								"Tameha", -- [1]
+								"WARRIOR", -- [2]
+								"Salsâ", -- [3]
+							}, -- [190]
+							{
+								"Bownér", -- [1]
+								"HUNTER", -- [2]
+								"Trîxîe", -- [3]
+							}, -- [191]
+							{
+								"Nialina", -- [1]
+								"PRIEST", -- [2]
+								"Saatinchen", -- [3]
+							}, -- [192]
+							{
+								"Sanchy", -- [1]
+								"WARRIOR", -- [2]
+								"", -- [3]
+							}, -- [193]
+							{
+								"Roxxoar", -- [1]
+								"WARRIOR", -- [2]
+								"0,0", -- [3]
+							}, -- [194]
+							{
+								"Erantara", -- [1]
+								"SHAMAN", -- [2]
+								"Ragaldin", -- [3]
+							}, -- [195]
+							{
+								"Verylaygord", -- [1]
+								"WARLOCK", -- [2]
+								"Laygord", -- [3]
+							}, -- [196]
+							{
+								"Barenziah", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [197]
+							{
+								"Kawae", -- [1]
+								"MONK", -- [2]
+								"Nunae", -- [3]
+							}, -- [198]
+							{
+								"Gahju", -- [1]
+								"DRUID", -- [2]
+								"Zuhani", -- [3]
+							}, -- [199]
+							{
+								"Josephina", -- [1]
+								"ROGUE", -- [2]
+								"103411,14851", -- [3]
+							}, -- [200]
+							{
+								"Broul", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [201]
+							{
+								"Aerhen", -- [1]
+								"PALADIN", -- [2]
+								"Ragaldin", -- [3]
+							}, -- [202]
+							{
+								"Xatora", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [203]
+							{
+								"Moonsk", -- [1]
+								"SHAMAN", -- [2]
+								"28000,0", -- [3]
+							}, -- [204]
+							{
+								"Farasinâ", -- [1]
+								"WARLOCK", -- [2]
+								"Skontina", -- [3]
+							}, -- [205]
+							{
+								"Siscia", -- [1]
+								"PRIEST", -- [2]
+								"0,0", -- [3]
+							}, -- [206]
+							{
+								"Jabulani", -- [1]
+								"DRUID", -- [2]
+								"Saatinchen", -- [3]
+							}, -- [207]
+							{
+								"Midnïte", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [208]
+							{
+								"Gladiones", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [209]
+							{
+								"Xertan", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [210]
+							{
+								"Lynsmiga", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [211]
+							{
+								"Phony", -- [1]
+								"HUNTER", -- [2]
+								"39500,2000", -- [3]
+							}, -- [212]
+							{
+								"Âphroditê", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [213]
+							{
+								"Caíleen", -- [1]
+								"MAGE", -- [2]
+								"Saatinchen", -- [3]
+							}, -- [214]
+							{
+								"Schakalakaa", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [215]
+							{
+								"Saryala", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [216]
+							{
+								"Bolloxed", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [217]
+							{
+								"Krandras", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [218]
+							{
+								"Câble", -- [1]
+								"PALADIN", -- [2]
+								"Kaliyo", -- [3]
+							}, -- [219]
+							{
+								"Othelo", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [220]
+							{
+								"Schuetzê", -- [1]
+								"HUNTER", -- [2]
+								"39500,1500", -- [3]
+							}, -- [221]
+							{
+								"Zuump", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [222]
+							{
+								"Diaana", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [223]
+							{
+								"Akartu", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [224]
+							{
+								"Fyzu", -- [1]
+								"SHAMAN", -- [2]
+								"34000,1000", -- [3]
+							}, -- [225]
+							{
+								"Canella", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [226]
+							{
+								"Portogas", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [227]
+							{
+								"Baluna", -- [1]
+								"MONK", -- [2]
+								"39500,1000", -- [3]
+							}, -- [228]
+							{
+								"Balrat", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [229]
+							{
+								"Arutak", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [230]
+							{
+								"Zlobo", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [231]
+							{
+								"Dêrtod", -- [1]
+								"ROGUE", -- [2]
+								"Mîranda", -- [3]
+							}, -- [232]
+							{
+								"Sycario", -- [1]
+								"MONK", -- [2]
+								"Kaliyo", -- [3]
+							}, -- [233]
+							{
+								"Naneshi", -- [1]
+								"MONK", -- [2]
+								"Saatinchen", -- [3]
+							}, -- [234]
+							{
+								"Koffeinfrei", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [235]
+							{
+								"Hakonsson", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [236]
+							{
+								"Yenke", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Josephina", -- [3]
+							}, -- [237]
+							{
+								"Grygor", -- [1]
+								"PRIEST", -- [2]
+								"Forsythe", -- [3]
+							}, -- [238]
+							{
+								"Narmyleh", -- [1]
+								"WARLOCK", -- [2]
+								"Saryala", -- [3]
+							}, -- [239]
+							{
+								"Ktxlol", -- [1]
+								"ROGUE", -- [2]
+								"Spinningtree", -- [3]
+							}, -- [240]
+							{
+								"Chíchî", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [241]
+							{
+								"Greezel", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [242]
+							{
+								"Phóénix", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [243]
+							{
+								"Jobull", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [244]
+							{
+								"Ànthala", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [245]
+							{
+								"Viu", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [246]
+							{
+								"Darkì", -- [1]
+								"WARLOCK", -- [2]
+								"Balrat", -- [3]
+							}, -- [247]
+							{
+								"Lomsé", -- [1]
+								"DRUID", -- [2]
+								"Amonarch", -- [3]
+							}, -- [248]
+							{
+								"Yagaman", -- [1]
+								"DRUID", -- [2]
+								"", -- [3]
+							}, -- [249]
+							{
+								"Mimikrie", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [250]
+							{
+								"Torlôs", -- [1]
+								"MONK", -- [2]
+								"Mirandâ", -- [3]
+							}, -- [251]
+							{
+								"Bíbì", -- [1]
+								"WARLOCK", -- [2]
+								"Ineri", -- [3]
+							}, -- [252]
+							{
+								"Missandei", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [253]
+							{
+								"Órak", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [254]
+							{
+								"Cýberdragon", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [255]
+							{
+								"Côsair", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Skontina", -- [3]
+							}, -- [256]
+							{
+								"Aleksandr", -- [1]
+								"WARLOCK", -- [2]
+								"Zuhani", -- [3]
+							}, -- [257]
+							{
+								"Sêphrioth", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [258]
+							{
+								"Tarunya", -- [1]
+								"SHAMAN", -- [2]
+								"Feyrah", -- [3]
+							}, -- [259]
+							{
+								"Salsâ", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [260]
+							{
+								"Pongobumm", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [261]
+							{
+								"Frostblood", -- [1]
+								"MAGE", -- [2]
+								"Zuhani", -- [3]
+							}, -- [262]
+							{
+								"Lemurensohn", -- [1]
+								"WARRIOR", -- [2]
+								"Hermann Schmolze", -- [3]
+							}, -- [263]
+							{
+								"Siasin", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [264]
+							{
+								"Arakus", -- [1]
+								"HUNTER", -- [2]
+								"Schakalakaa", -- [3]
+							}, -- [265]
+							{
+								"Hórázón", -- [1]
+								"WARLOCK", -- [2]
+								"Snizzelin", -- [3]
+							}, -- [266]
+							{
+								"Faxê", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [267]
+							{
+								"Luckysleven", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [268]
+							{
+								"Blitzkiller", -- [1]
+								"SHAMAN", -- [2]
+								"Josephina", -- [3]
+							}, -- [269]
+							{
+								"Groonae", -- [1]
+								"DRUID", -- [2]
+								"Jospehina", -- [3]
+							}, -- [270]
+							{
+								"Laygordfarm", -- [1]
+								"DRUID", -- [2]
+								"Laygord", -- [3]
+							}, -- [271]
+							{
+								"Nayuna", -- [1]
+								"PALADIN", -- [2]
+								"Salsâ", -- [3]
+							}, -- [272]
+							{
+								"Azûl", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [273]
+							{
+								"Sevella", -- [1]
+								"PRIEST", -- [2]
+								"Josephina", -- [3]
+							}, -- [274]
+							{
+								"Monkinhonk", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [275]
+							{
+								"Laygorddk", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Laygord", -- [3]
+							}, -- [276]
+							{
+								"Koryaa", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [277]
+							{
+								"Laserbird", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [278]
+							{
+								"Pändria", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [279]
+							{
+								"Rakzuki", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [280]
+							{
+								"Rumøs", -- [1]
+								"PRIEST", -- [2]
+								"Rumos", -- [3]
+							}, -- [281]
+							{
+								"Rinji", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [282]
+							{
+								"Dudelove", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [283]
+							{
+								"Dönerchi", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [284]
+							{
+								"Nédflanders", -- [1]
+								"DEATHKNIGHT", -- [2]
+								"Atømflunder", -- [3]
+							}, -- [285]
+							{
+								"Ragtos", -- [1]
+								"SHAMAN", -- [2]
+								"Rumos", -- [3]
+							}, -- [286]
+							{
+								"Jbplayaa", -- [1]
+								"MAGE", -- [2]
+								"Pallania", -- [3]
+							}, -- [287]
+							{
+								"Skontina", -- [1]
+								"HUNTER", -- [2]
+								"39500,3000", -- [3]
+							}, -- [288]
+							{
+								"Aeryo", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [289]
+							{
+								"Rávên", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [290]
+							{
+								"Ironox", -- [1]
+								"WARRIOR", -- [2]
+								"Josephina", -- [3]
+							}, -- [291]
+							{
+								"Zene", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [292]
+							{
+								"Flauschíg", -- [1]
+								"PALADIN", -- [2]
+								"Feyrah", -- [3]
+							}, -- [293]
+							{
+								"Smellwell", -- [1]
+								"WARLOCK", -- [2]
+								"Josephina", -- [3]
+							}, -- [294]
+							{
+								"Thektal", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [295]
+							{
+								"Raiiza", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [296]
+							{
+								"Invisibull", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [297]
+							{
+								"Iceblut", -- [1]
+								"MAGE", -- [2]
+								"Josephina", -- [3]
+							}, -- [298]
+							{
+								"Shinchin", -- [1]
+								"MONK", -- [2]
+								"Josephina", -- [3]
+							}, -- [299]
+							{
+								"Stumpjumper", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [300]
+							{
+								"Títanîa", -- [1]
+								"PALADIN", -- [2]
+								"Bullguârd", -- [3]
+							}, -- [301]
+							{
+								"Feyrah", -- [1]
+								"HUNTER", -- [2]
+								"15500,880", -- [3]
+							}, -- [302]
+							{
+								"Bopper", -- [1]
+								"MONK", -- [2]
+								"Brangster", -- [3]
+							}, -- [303]
+							{
+								"Génésîs", -- [1]
+								"WARRIOR", -- [2]
+								"Schakalakaa", -- [3]
+							}, -- [304]
+							{
+								"Anthuriel", -- [1]
+								"DRUID", -- [2]
+								"Josephina", -- [3]
+							}, -- [305]
+							{
+								"Terizeus", -- [1]
+								"ROGUE", -- [2]
+								"Josephina", -- [3]
+							}, -- [306]
+							{
+								"Boomslam", -- [1]
+								"HUNTER", -- [2]
+								"Stumpjumper", -- [3]
+							}, -- [307]
+							{
+								"Cuamin", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [308]
+							{
+								"Baphomêth", -- [1]
+								"WARLOCK", -- [2]
+								"Bullguârd", -- [3]
+							}, -- [309]
+							{
+								"Gretäl", -- [1]
+								"WARLOCK", -- [2]
+								"Mîrandá", -- [3]
+							}, -- [310]
+							{
+								"Bówie", -- [1]
+								"HUNTER", -- [2]
+								"Josephina", -- [3]
+							}, -- [311]
+							{
+								"Kalapatch", -- [1]
+								"DRUID", -- [2]
+								"Pallania", -- [3]
+							}, -- [312]
+							{
+								"Kaliyo", -- [1]
+								"MONK", -- [2]
+								"34000,750", -- [3]
+							}, -- [313]
+							{
+								"Treibholz", -- [1]
+								"DRUID", -- [2]
+								"Filyina", -- [3]
+							}, -- [314]
+							{
+								"Zalira", -- [1]
+								"PALADIN", -- [2]
+								"Josephina", -- [3]
+							}, -- [315]
+						},
+					},
+				},
+			},
+		},
+		["announce"] = {
+		},
+		["gptooltip"] = {
+		},
+		["whisper"] = {
+		},
+	},
+	["global"] = {
+		["last_version"] = "5.9.16",
+		["last_tier"] = 504,
+	},
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "CookieMonsterz",
+		["Mániax - Thrall"] = "CookieMonsterz",
+		["Janovi - Thrall"] = "CookieMonsterz",
+		["Génésîs - Thrall"] = "CookieMonsterz",
+	},
+	["profiles"] = {
+		["Janovi - Thrall"] = {
+			["decay_p"] = 10,
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["base_gp"] = 300,
+			["outsiders"] = 0,
+		},
+		["Mániax - Thrall"] = {
+			["decay_p"] = 10,
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["base_gp"] = 300,
+			["outsiders"] = 0,
+		},
+		["Schakalakaa - Thrall"] = {
+			["decay_p"] = 10,
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["base_gp"] = 300,
+			["outsiders"] = 0,
+		},
+		["CookieMonsterz"] = {
+			["outsiders"] = 0,
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["decay_p"] = 10,
+			["base_gp"] = 300,
+			["blizzard_show_offline"] = 1,
+		},
+		["Génésîs - Thrall"] = {
+			["decay_p"] = 10,
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["outsiders"] = 0,
+			["base_gp"] = 300,
+		},
+	},
+}

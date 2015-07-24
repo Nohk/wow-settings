@@ -1,0 +1,7 @@
+epgp_lootmaster_ml: enabled
+Forte_Core: disabled
+AskMrRobot: disabled
+Skada: enabled
+ArkInventory: enabled
+ArkInventoryRules: enabled
+ArkInventoryRulesExample: enabled

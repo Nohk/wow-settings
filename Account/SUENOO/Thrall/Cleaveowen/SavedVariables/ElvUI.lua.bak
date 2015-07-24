@@ -1,0 +1,133 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatLog"] = {
+		["1386024743.565"] = {
+			"^LFW_J", -- [1]
+			"Fujiwe", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Fujiwe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			588, -- [11]
+			"0x04800000044ACC18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+		["1386024794.569"] = {
+			"^LFW_J", -- [1]
+			"Naturestorm", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Naturestorm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			596, -- [11]
+			"0x0480000004524730", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+		["1386024051.742"] = {
+			"^LFW_L", -- [1]
+			"Humongolous", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Humongolous", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			505, -- [11]
+			"0x048000000463EB67", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+		["1386023848.959"] = {
+			"^LFW_V2200", -- [1]
+			"Cleaveowen", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Cleaveowen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"0x048000000478CEFC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+		["1386023854.712"] = {
+			"Levelgilde {stern}Daykarr Company{stern} {Kreis}6{Kreis} einfach beitreten und vorhandene Gildenboni nutzen.{dreieck}<--?-->{Kreuz}", -- [1]
+			"Myriande", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Myriande", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			471, -- [11]
+			"0x0480000004837C2F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_WHISPER",
+		},
+		["1386024077.702"] = {
+			"Hi Cleaveowen, wir die Gilde PFU (PinkFluffyUnicorns) 14 suchen noch nette Member zum lvln und später auch Raiden. Jeder ist willkommen.", -- [1]
+			"Dorumbar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dorumbar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			511, -- [11]
+			"0x0480000004A96B16", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_WHISPER",
+		},
+		["1386023949.029"] = {
+			"Hallo Cleaveowen ;) Wir die Gilde Ein Team Eine Mission suchen noch neue aktive Mitglieder zum gemeinsamen Leveln und Spaß haben. Teamplay steht bei uns an  der ersten Stelle, daher übernehmen wir auch einen Teil deiner Reperationskosten. Interesse?", -- [1]
+			"Rasengen", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rasengen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			499, -- [11]
+			"0x04800000047290B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_WHISPER",
+		},
+	},
+}

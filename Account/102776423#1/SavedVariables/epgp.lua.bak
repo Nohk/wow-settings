@@ -1,0 +1,37 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["whisper"] = {
+		},
+		["log"] = {
+		},
+		["gptooltip"] = {
+		},
+		["announce"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "CookieMonsterz",
+	},
+	["global"] = {
+		["last_version"] = "5.9.12",
+		["last_tier"] = 502,
+	},
+	["profiles"] = {
+		["CookieMonsterz"] = {
+		},
+		["Nunae - Thrall"] = {
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["decay_p"] = 10,
+			["outsiders"] = 0,
+			["base_gp"] = 300,
+		},
+	},
+}

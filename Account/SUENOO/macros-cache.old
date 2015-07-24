@@ -1,0 +1,168 @@
+VER 3 000000000000004B "AddonUsage" "RACIAL_TROLL_BERSERK"
+/addonusage
+END
+VER 3 0000000000000045 "Affli PowerUp" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip Dark Soul: Misery
+/stopcasting
+/cast Dark Soul: Misery
+/cast Blood Fury(Racial)
+/use 10
+END
+VER 3 000000000000000C "amber" "INV_PET_BATTLEPETTRAINING"
+/tar Amber
+END
+VER 3 0000000000000034 "Belt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 6
+END
+VER 3 000000000000003C "Carrion Swarm" "INV_MISC_QUESTIONMARK"
+#showtooltip Carrion Swarm
+/stopcasting
+/cast [form:0,spec:1] Metamorphosis
+/cast Carrion Swarm
+END
+VER 3 0000000000000020 "Chat" "INV_CHEST_CLOTH_24"
+/g Melee-Chat: /join KeksKlopper
+/g Caster-Chat: /join KeksCaster
+/g Heiler-Chat: /join keksheiler
+/g Hexer-Chat: /join GrimoireOfCookies
+END
+VER 3 0000000000000038 "Cloak" "INV_MISC_QUESTIONMARK"
+/use 15
+END
+VER 3 000000000000004A "Corruption + T1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Corruption
+/cast Doom
+/use 13
+END
+VER 3 000000000000003E "Deathnote" "ABILITY_CREATURE_CURSED_05"
+/deathnote
+END
+VER 3 0000000000000033 "Demo Power Up!" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip Dark Soul: Knowledge
+/stopcasting
+/cast Dark Soul: Knowledge
+/cast Blood Fury(Racial)
+/use 10
+END
+VER 3 0000000000000042 "Destro PowerUp" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip Dark Soul: Instability
+/stopcasting
+/cast Dark Soul: Instability
+/cast Blood Fury(Racial)
+/use 10
+END
+VER 3 0000000000000039 "Enslave Pit Lord" "INV_MISC_QUESTIONMARK"
+#show Enslave Demon
+/target Pit Lord
+/cast Enslave Demon
+END
+VER 3 000000000000003B "ExtraActionButt" "INV_Pet_Maggot"
+/click ExtraActionButton1
+END
+VER 3 000000000000001C "Falke" "INV_Misc_QuestionMark"
+#showtooltip
+/cast !Aspekt des Falken
+END
+VER 3 0000000000000029 "Farm Mode" "spell_lifegivingseed"
+/farmmode 512
+END
+VER 3 0000000000000041 "Farseer Wolf Rid" "INV_Pet_Cats_SiameseCat"
+/tar Farseer Wolf Rider
+END
+VER 3 0000000000000035 "Flame Breath Imp" "INV_Jewelcrafting_CrimsonHare"
+/target Wild Imp
+/petattack
+/cast Fel Flame Breath
+/targetlasttarget
+/petattack
+END
+VER 3 000000000000001D "Flare" "INV_Misc_QuestionMark"
+#showttoltop
+/cast !Leuchtfeuer
+END
+VER 3 000000000000001B "Fuchs" "INV_Misc_QuestionMark"
+#showtooltip
+/cast !Aspekt des Fuchses
+END
+VER 3 0000000000000040 "Gathering" "INV_MISC_QUESTIONMARK"
+#showtooltip Crystallized Earth
+END
+VER 3 000000000000001A "Gepard" "INV_Misc_QuestionMark"
+#showtooltip
+/cast !Aspekt des Geparden
+END
+VER 3 0000000000000027 "GRATZ" "spell_Shaman_convection"
+/g Bäm GZ! :)
+END
+VER 3 0000000000000048 "Healing Tide" "SPELL_FROST_ARCTICWINDS"
+/tar Healing Tide Totem
+END
+VER 3 000000000000003A "kneel" "Ability_Druid_Cower"
+/kneel
+END
+VER 3 0000000000000049 "Nazgrim Stun" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/w Taciter Stun in 3s
+/cast Shadowfury
+END
+VER 3 0000000000000018 "Nitro" "Ability_Rogue_Sprint"
+/use 6
+END
+VER 3 000000000000003D "Pet Action 5" "INV_Pet_PandarenElemental_Earth"
+/click PetActionButton5
+END
+VER 3 0000000000000043 "Power Up!" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip Dark Soul: Knowledge
+#showtooltip Dark Soul: Misery
+#showtooltip Dark Soul: Instability
+/stopcasting
+/cast Dark Soul: Instability
+/cast Dark Soul: Misery
+/cast Dark Soul: Knowledge
+/cast Blood Fury(Racial)
+/use 10
+END
+VER 3 000000000000002A "Random Mount" "Ability_Mount_Charger"
+/ai summon mount
+END
+VER 3 0000000000000026 "Range 6" "INV_Misc_QuestionMark"
+/range 6
+END
+VER 3 0000000000000046 "Rejuvenate Pet" "ACHIEVEMENT_GUILD_DOCTORISIN"
+#showtooltip Rejuvenation
+/cast [@pet,exists] Rejuvenation
+END
+VER 3 000000000000000E "Schutz & Trinket" "Spell_Holy_Restoration"
+#showtooltip  Göttlicher Schutz
+/cast Göttlicher Schutz
+/use Bindendes Versprechen
+END
+VER 3 0000000000000022 "SilS" "INV_Misc_QuestionMark"
+/stopcasting
+/wirken Unterdrückender Schuss
+END
+VER 3 0000000000000044 "Skada Toggle" "INV_Misc_Gem_Pearl_04"
+/skada toggle
+END
+VER 3 0000000000000047 "Soulburn" "INV_MISC_QUESTIONMARK"
+aw
+END
+VER 3 0000000000000023 "Tank" "Ability_Creature_Cursed_04"
+/tar focus
+/assist
+END
+VER 3 0000000000000037 "TSMAucBClick" "1"
+/click TSMAuctioningCancelButton
+/click TSMAuctioningPostButton
+END
+VER 3 0000000000000076 "ZGVMacro1" "0"
+/target Gabby Goldsnap
+/run ZGV:MRM()
+END
+VER 3 000000000000000A "Zorn & Trinket" "SPELL_HOLY_AVENGINEWRATH"
+#showtooltip Zornige Vergeltung
+/use Siegesabzeichen des blutrünstigen Gladiators
+/cast Zornige Vergeltung
+END

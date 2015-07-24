@@ -1,0 +1,10 @@
+VER 3 0100000000000007 "Gorefiends Grasp" "INV_MISC_QUESTIONMARK"
+#showtooltip Gorefiend's Grasp
+/target Nohkliterate
+/cast Gorefiend's Grasp
+/targetlasttarget
+END
+VER 3 010000000000015E "ZGVMacro1" "0"
+/target Shadow Hunter Kajassa
+/run ZGV:MRM()
+END

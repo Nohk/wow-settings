@@ -1,0 +1,29 @@
+
+rosterSize = 2
+rosterCache = {
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "WARLOCK",
+		["reference"] = "player",
+		["mia"] = 0,
+		["name"] = "Nohkimon",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [1]
+	{
+		["til"] = 0,
+		["boa"] = 0,
+		["class"] = "WARRIOR",
+		["reference"] = "party1",
+		["mia"] = 0,
+		["name"] = "Kheldos",
+		["lvl"] = 90,
+		["spec"] = "",
+		["scanstatus"] = "|cffff9e00Unscanned|r",
+		["pvp"] = 0,
+	}, -- [2]
+}
+workingRoster = nil

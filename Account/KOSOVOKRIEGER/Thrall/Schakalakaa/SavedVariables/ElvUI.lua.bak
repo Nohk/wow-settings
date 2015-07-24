@@ -1,0 +1,25 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatLog"] = {
+		["1379451612.05"] = {
+			"^LFW_V2200", -- [1]
+			"Schakalakaa", -- [2]
+			"", -- [3]
+			"5. TCForwarder2IIll", -- [4]
+			"Schakalakaa", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"TCForwarder2IIll", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"0x04800000044DA500", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			[20] = "CHAT_MSG_CHANNEL",
+		},
+	},
+}

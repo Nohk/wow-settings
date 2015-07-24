@@ -1,0 +1,7 @@
+
+TukuiConfigAll = {
+	["Thrall"] = {
+		["Nunae"] = false,
+	},
+}
+TukuiConfigPublic = nil

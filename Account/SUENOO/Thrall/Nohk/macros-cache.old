@@ -1,0 +1,89 @@
+VER 3 010000000000000E "AS" "Ability_ImpalingBolt"
+#showtooltip Arcane Shot
+/stopcasting
+/stopcasting
+/use 10
+/use 13
+/use 14
+/cast Arcane Shot
+END
+VER 3 010000000000001A "BOOM!" "Ability_Creature_Cursed_02"
+#showtooltip Schnellfeuer
+/use 13
+/cast Schnellfeuer
+END
+VER 3 010000000000001C "Brüllen" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=player] Brüllen der Aufopferung
+END
+VER 3 0100000000000019 "ConcS" "Spell_Frost_Stun"
+#showtooltip Concussive Shot
+/stopcasting
+/cast Concussive Shot
+END
+VER 3 010000000000001F "CoS" "Ability_Hunter_CobraShot"
+#showtooltip Cobra Shot
+/use 10
+/use 14
+/cast Cobra Shot
+END
+VER 3 010000000000000B "CS" "Ability_Hunter_ChimeraShot2"
+#showtooltip Schimärenschuss
+/stopcasting
+/stopcasting
+/cast !Aspekt des Falken
+/use 10
+/use 13
+/use 14
+/cast Schimärenschuss
+END
+VER 3 0100000000000005 "DE" "Ability_Rogue_Feint"
+#showtooltip Disengage
+/stopcasting
+/cast Disengage
+/use 15
+END
+VER 3 0100000000000020 "ES" "INV_MISC_QUESTIONMARK"
+#showtooltip Explosive Shot
+/stopcasting
+/stopcasting
+/use 10
+/use 13
+/use 14
+/cast Explosive Shot
+END
+VER 3 0100000000000006 "KS" "Ability_Hunter_Assassinate2"
+#showtooltip Kill Shot
+/cancelaura Hand of Protection
+/cancelaura Deterrence
+/stopcasting
+/stopcasting
+/cast Kill Shot
+END
+VER 3 0100000000000021 "Mats" "INV_MISC_QUESTIONMARK"
+#showtooltip Mithril Bar
+END
+VER 3 010000000000000C "MD" "Ability_Hunter_Misdirection"
+#showtooltip Misdirection
+/cast [@focus,help][@pet,exists] Misdirection
+END
+VER 3 0100000000000018 "ScS" "Ability_GolemStormBolt"
+#showtooltip
+/stopcasting
+/cast Scatter Shot
+END
+VER 3 010000000000001D "SS" "INV_Misc_QuestionMark"
+#showtooltip Zuverlässiger Schuss
+/cast !Aspekt des Falken
+/cast Zuverlässiger Schuss
+END
+VER 3 0100000000000015 "VuhDoDCShieldData" "Ability_Hunter_ExplosiveShot"
+R1DH1MR1MR1SH1SM2PM2SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]2HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000016 "VuhDoDCShieldNames" "Ability_Hunter_ExplosiveShot"
+NMisAldCobNeeSôJobPhi[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Noh[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000003A "ZGVMacro4" "0"
+/target Ankova the Fallen
+/run ZGV:MRM()
+END

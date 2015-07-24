@@ -1,0 +1,24 @@
+
+TradeSkillMaster_CraftingDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["tradeSkills"] = {
+				["Schakalakaa"] = {
+					["Jewelcrafting"] = {
+						["isSecondary"] = false,
+						["level"] = 600,
+						["maxLevel"] = 600,
+					},
+					["Mining"] = {
+						["isSecondary"] = false,
+						["level"] = 600,
+						["maxLevel"] = 600,
+					},
+				},
+			},
+		},
+	},
+}

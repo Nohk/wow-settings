@@ -1,0 +1,15 @@
+
+TradeSkillMaster_ShoppingDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Nunae - Thrall",
+	},
+	["profiles"] = {
+		["Nunae - Thrall"] = {
+			["dealfinding"] = {
+				["DealfindingList"] = {
+				},
+			},
+			["version"] = 1,
+		},
+	},
+}

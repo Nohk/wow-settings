@@ -1,0 +1,42 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["whisper"] = {
+		},
+		["log"] = {
+		},
+		["gptooltip"] = {
+		},
+		["announce"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "CookieMonsterz",
+	},
+	["global"] = {
+		["last_version"] = "5.9.13",
+		["last_tier"] = 503,
+	},
+	["profiles"] = {
+		["CookieMonsterz"] = {
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["decay_p"] = 10,
+			["outsiders"] = 0,
+			["base_gp"] = 300,
+		},
+		["Nohkimon - Thrall"] = {
+			["min_ep"] = 24000,
+			["extras_p"] = 50,
+			["decay_p"] = 10,
+			["outsiders"] = 0,
+			["base_gp"] = 300,
+		},
+	},
+}

@@ -1,0 +1,37 @@
+
+AucAdvancedConfig = {
+	["version"] = 1,
+	["profile.Default"] = {
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+			},
+		},
+		["util"] = {
+			["automagic"] = {
+				["SavedMailButtons"] = {
+				},
+			},
+			["pricelevel"] = {
+			},
+		},
+	},
+	["users.Thrall.Nohkan"] = "Default",
+}
+AucAdvancedData = {
+	["AserArbitrageRealms"] = {
+		["Thrall"] = "Nohkan",
+	},
+	["Stats"] = {
+	},
+	["UtilSearchUiData"] = {
+		["Global"] = {
+		},
+		["Current"] = {
+		},
+		["Version"] = 1,
+		["SavedSearches"] = {
+		},
+	},
+}

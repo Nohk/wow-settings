@@ -1,0 +1,6 @@
+
+VengeanceStatusDB = {
+	["scale"] = 1.5,
+	["bgalpha"] = 1,
+	["border"] = true,
+}

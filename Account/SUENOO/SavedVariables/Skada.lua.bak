@@ -1,0 +1,17 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -21.9998779296875,
+					["y"] = -0,
+				}, -- [1]
+			},
+		},
+	},
+}

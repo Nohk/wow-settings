@@ -1,0 +1,10 @@
+VER 3 0100000000000003 "grant level" "ACHIEVEMENT_GUILDPERK_MASSRESURRECTION"
+/Run GrantLevel("Nohkliterate")
+END
+VER 3 0100000000000001 "Recruitment" "Ability_Monk_ZenMeditation"
+/2 Wir, die Gilde CookieMonsterz suchen noch 1 Schurken für unsre 25er Raids. Raidzeiten sind Mi, Do und So von 18:45-22:00 Uhr. Wir haben im 25er derzeit 3 HCs down. Du solltest ein min. ilvl von 550 sowie den Umhang besitzen.
+END
+VER 3 0100000000000002 "ZGVMacro2" "0"
+/target Provisioner Lorkran
+/run ZGV:MRM()
+END

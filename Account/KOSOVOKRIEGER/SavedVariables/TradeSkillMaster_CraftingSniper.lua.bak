@@ -1,0 +1,20 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["global"] = {
+		["TrackUndercuts"] = false,
+	},
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["ReportingEnabled"] = {
+				["Schakalakaa"] = true,
+			},
+			["MyToons"] = {
+				["Schakalakaa"] = {
+				},
+			},
+		},
+	},
+}

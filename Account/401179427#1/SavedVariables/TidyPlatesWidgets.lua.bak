@@ -1,0 +1,18 @@
+
+TidyPlatesWidgetData = {
+	["UnitClass"] = {
+		["Nohkan"] = "MAGE",
+		["Sternn"] = "PRIEST",
+		["Norilei"] = "PRIEST",
+	},
+	["CachedAuraDurations"] = {
+	},
+	["UnitDescriptions"] = {
+		["Mindless Zombie"] = "|cffffff001|r Undead",
+		["Agatha"] = "|cffff191910|r|cffAF5050+|r Humanoid",
+		["Arthura"] = "|cffff191910|r|cffAF5050+|r Humanoid",
+	},
+	["UnitGuild"] = {
+		["Norilei"] = "The Beatdown",
+	},
+}

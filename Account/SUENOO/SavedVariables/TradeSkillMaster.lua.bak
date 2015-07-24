@@ -1,0 +1,14 @@
+
+TradeSkillMasterDB = {
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 115.6410324572481,
+			},
+			["infoMessage"] = 10,
+		},
+	},
+}

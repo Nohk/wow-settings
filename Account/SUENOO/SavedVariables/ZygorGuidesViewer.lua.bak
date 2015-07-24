@@ -1,0 +1,231 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Nohkimon - Thrall"] = {
+			["taxis_were_update"] = true,
+			["step"] = 74,
+			["stephistory"] = {
+				1, -- [1]
+				2, -- [2]
+				3, -- [3]
+				4, -- [4]
+				5, -- [5]
+				6, -- [6]
+				7, -- [7]
+				8, -- [8]
+				9, -- [9]
+				10, -- [10]
+				11, -- [11]
+				12, -- [12]
+				13, -- [13]
+				14, -- [14]
+				15, -- [15]
+				16, -- [16]
+				17, -- [17]
+				18, -- [18]
+				19, -- [19]
+				20, -- [20]
+				21, -- [21]
+				22, -- [22]
+				23, -- [23]
+				24, -- [24]
+				25, -- [25]
+				26, -- [26]
+				27, -- [27]
+				28, -- [28]
+				29, -- [29]
+				30, -- [30]
+				31, -- [31]
+				32, -- [32]
+				33, -- [33]
+				34, -- [34]
+				35, -- [35]
+				36, -- [36]
+				37, -- [37]
+				38, -- [38]
+				39, -- [39]
+				40, -- [40]
+				41, -- [41]
+				42, -- [42]
+				43, -- [43]
+				44, -- [44]
+				45, -- [45]
+				46, -- [46]
+				47, -- [47]
+				48, -- [48]
+				49, -- [49]
+				50, -- [50]
+				51, -- [51]
+				52, -- [52]
+				53, -- [53]
+				54, -- [54]
+				55, -- [55]
+				56, -- [56]
+				57, -- [57]
+				58, -- [58]
+				59, -- [59]
+				60, -- [60]
+				61, -- [61]
+				62, -- [62]
+				63, -- [63]
+				64, -- [64]
+				65, -- [65]
+				66, -- [66]
+				67, -- [67]
+				68, -- [68]
+				69, -- [69]
+				70, -- [70]
+				71, -- [71]
+				72, -- [72]
+				73, -- [73]
+			},
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "LEVELING\\Cataclysm 80-85\\Deepholm (82-83)",
+			["guides_history_ZGV4clear"] = true,
+			["debuglog"] = {
+				"03:57:58> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [1]
+				"03:57:58> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [2]
+				"03:57:58> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [3]
+				"03:57:58> Popup Closed (StaticPopups.lua:145:Close)", -- [4]
+				"03:57:59> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [5]
+				"03:58:00> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [6]
+				"03:58:01> [LibRover] [LibRover] FindLastPath from Orgrimmar/1 38.8,48.9 to Deepholm/0 30.6,77.7 (LibRover-1.0.lua:2416:Debug)", -- [7]
+				"03:58:01> [LibRover] - Found hearth node [234] \"Orgrimmar 53,78\" = Orgrimmar /1 53.6,78.8 [inn] (link:mode=hearth) (LibRover-1.0.lua:2416:Debug)", -- [8]
+				"03:58:01> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [9]
+				"03:58:01> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddOrgrimmar 38,48|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [10]
+				"03:58:01> [LibRover] 1. |cff88ff88Click portal to Deepholm\nTeleport to Deepholm|cffff88dd -- |cff88ccddPortal to Deepholm|cffff88dd  (dist 0, time 8.9, total 8.9)|cffff88dd |cff8888dd{fly_portal__portal_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [11]
+				"03:58:01> [LibRover] |cff8888882. |cff88ff88Arrive at Deepholm|cffff88dd -- |cff88ccddPortal from Orgrimmar|cffff88dd  (dist 0, time 15.0, total 23.9)|cffff88dd |cff8888dd{portal_portal__fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [12]
+				"03:58:01> [LibRover] 3. |cff88ff88Go to Deepholm 30,77|cffff88dd -- |cff88ccddDeepholm 30,77|cffff88dd  (dist 0, time 46.1, total 70.0)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [13]
+				"03:58:02> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [14]
+				"03:58:03> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [15]
+				"03:58:04> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [16]
+				"03:58:05> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [17]
+				"03:58:05> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [18]
+				"03:58:06> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [19]
+				"03:58:06> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [20]
+				"03:58:06> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [21]
+				"03:58:07> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [22]
+				"03:58:07> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [23]
+				"03:58:07> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [24]
+				"03:58:08> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [25]
+				"03:58:09> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [26]
+				"03:58:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [27]
+				"03:58:11> [LibRover] [LibRover] FindLastPath from Orgrimmar/1 38.5,49.4 to Deepholm/0 30.6,77.7 (LibRover-1.0.lua:2416:Debug)", -- [28]
+				"03:58:11> [LibRover] - Found hearth node [234] \"Orgrimmar 53,78\" = Orgrimmar /1 53.6,78.8 [inn] (link:mode=hearth) (LibRover-1.0.lua:2416:Debug)", -- [29]
+				"03:58:11> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddOrgrimmar 38,49|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [30]
+				"03:58:11> [LibRover] 1. |cff88ff88Click portal to Deepholm\nTeleport to Deepholm|cffff88dd -- |cff88ccddPortal to Deepholm|cffff88dd  (dist 0, time 9.1, total 9.1)|cffff88dd |cff8888dd{fly_portal__portal_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [31]
+				"03:58:11> [LibRover] |cff8888882. |cff88ff88Arrive at Deepholm|cffff88dd -- |cff88ccddPortal from Orgrimmar|cffff88dd  (dist 0, time 15.0, total 24.1)|cffff88dd |cff8888dd{portal_portal__fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [32]
+				"03:58:11> [LibRover] 3. |cff88ff88Go to Deepholm 30,77|cffff88dd -- |cff88ccddDeepholm 30,77|cffff88dd  (dist 0, time 46.1, total 70.2)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [33]
+				"03:58:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [34]
+				"03:58:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [35]
+				"03:58:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [36]
+				"03:58:11> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [37]
+				"03:58:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [38]
+				"03:58:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [39]
+				"03:58:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [40]
+				"03:58:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [41]
+				"03:58:12> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [42]
+				"03:58:13> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [43]
+				"03:58:14> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [44]
+				"03:58:15> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [45]
+				"03:58:16> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [46]
+				"03:58:17> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [47]
+				"03:58:18> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [48]
+				"03:58:19> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [49]
+				"03:58:19> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [50]
+				"03:58:20> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [51]
+				"03:58:21> [LibRover] [LibRover] FindLastPath from Orgrimmar/1 38.6,49.1 to Deepholm/0 30.6,77.7 (LibRover-1.0.lua:2416:Debug)", -- [52]
+				"03:58:21> [LibRover] - Found hearth node [234] \"Orgrimmar 53,78\" = Orgrimmar /1 53.6,78.8 [inn] (link:mode=hearth) (LibRover-1.0.lua:2416:Debug)", -- [53]
+				"03:58:21> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [54]
+				"03:58:21> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [55]
+				"03:58:21> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [56]
+				"03:58:21> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddOrgrimmar 38,49|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [57]
+				"03:58:21> [LibRover] 1. |cff88ff88Click portal to Deepholm\nTeleport to Deepholm|cffff88dd -- |cff88ccddPortal to Deepholm|cffff88dd  (dist 0, time 9.0, total 9.0)|cffff88dd |cff8888dd{fly_portal__portal_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [58]
+				"03:58:21> [LibRover] |cff8888882. |cff88ff88Arrive at Deepholm|cffff88dd -- |cff88ccddPortal from Orgrimmar|cffff88dd  (dist 0, time 15.0, total 24.0)|cffff88dd |cff8888dd{portal_portal__fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [59]
+				"03:58:21> [LibRover] 3. |cff88ff88Go to Deepholm 30,77|cffff88dd -- |cff88ccddDeepholm 30,77|cffff88dd  (dist 0, time 46.1, total 70.1)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [60]
+				"03:58:22> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [61]
+				"03:58:23> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [62]
+				"03:58:24> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [63]
+				"03:58:25> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [64]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [65]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [66]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [67]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [68]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [69]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [70]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [71]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [72]
+				"03:58:26> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [73]
+				"03:58:27> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [74]
+				"03:58:28> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [75]
+				"03:58:29> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [76]
+				"03:58:30> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [77]
+				"03:58:31> [LibRover] [LibRover] FindLastPath from Orgrimmar/1 38.8,49.1 to Deepholm/0 30.6,77.7 (LibRover-1.0.lua:2416:Debug)", -- [78]
+				"03:58:31> [LibRover] - Found hearth node [234] \"Orgrimmar 53,78\" = Orgrimmar /1 53.6,78.8 [inn] (link:mode=hearth) (LibRover-1.0.lua:2416:Debug)", -- [79]
+				"03:58:31> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddOrgrimmar 38,49|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [80]
+				"03:58:31> [LibRover] 1. |cff88ff88Click portal to Deepholm\nTeleport to Deepholm|cffff88dd -- |cff88ccddPortal to Deepholm|cffff88dd  (dist 0, time 8.9, total 8.9)|cffff88dd |cff8888dd{fly_portal__portal_portal}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [81]
+				"03:58:31> [LibRover] |cff8888882. |cff88ff88Arrive at Deepholm|cffff88dd -- |cff88ccddPortal from Orgrimmar|cffff88dd  (dist 0, time 15.0, total 23.9)|cffff88dd |cff8888dd{portal_portal__fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [82]
+				"03:58:31> [LibRover] 3. |cff88ff88Go to Deepholm 30,77|cffff88dd -- |cff88ccddDeepholm 30,77|cffff88dd  (dist 0, time 46.1, total 70.0)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2416:Debug)", -- [83]
+				"03:58:32> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [84]
+				"03:58:33> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [85]
+				"03:58:34> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [86]
+				"03:58:35> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [87]
+				"03:58:36> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [88]
+				"03:58:37> Popup Closed (StaticPopups.lua:145:Close)", -- [89]
+				"03:58:37> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [90]
+				"03:58:38> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [91]
+				"03:58:39> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [92]
+				"03:58:40> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [93]
+				"03:58:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [94]
+				"03:58:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [95]
+				"03:58:41> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [96]
+				"03:58:42> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [97]
+				"03:58:43> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [98]
+				"03:58:44> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [99]
+				"03:58:45> [display] Goal 2 shows macro 37 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [100]
+			},
+			["guides_history"] = {
+				["LEVELING"] = {
+					"LEVELING\\Cataclysm 80-85\\Deepholm (82-83)", -- [1]
+					74, -- [2]
+				},
+			},
+			["maint_fetchitemdata"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Nohkimon - Thrall"] = "Nohkimon - Thrall",
+	},
+	["profiles"] = {
+		["Nohkimon - Thrall"] = {
+			["magicmarker_mob"] = 8,
+			["arrowmeters"] = true,
+			["dispmode"] = {
+				["showcountsteps"] = 2,
+				["hidecompletedinbrief"] = false,
+			},
+			["tmp__was_sheened"] = true,
+			["autoselectitem"] = true,
+			["dispprimary"] = {
+				["showcountsteps"] = 2,
+				["hidecompletedinbrief"] = false,
+			},
+			["autotaxi"] = true,
+			["autoturnin"] = true,
+			["magickey_bind"] = "",
+			["minimapzoom"] = true,
+			["autoaccept"] = true,
+			["magicmarker_npc"] = 4,
+			["hidecompletedinbrief"] = false,
+			["ranconfig"] = true,
+			["pathfinding_preferfly"] = false,
+			["pathfinding_lazy"] = false,
+			["skipauxsteps"] = true,
+			["autosell"] = true,
+			["showcountsteps"] = 2,
+			["levelprogbar"] = true,
+			["pathfinding_leasthops"] = false,
+			["contractmobs"] = true,
+		},
+	},
+}

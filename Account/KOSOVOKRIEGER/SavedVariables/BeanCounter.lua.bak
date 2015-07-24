@@ -1,0 +1,51 @@
+
+BeanCounterDB = {
+	["Thrall"] = {
+		["Schakalakaa"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["Thrall"] = {
+		["Schakalakaa"] = {
+			["tasks.sortArray"] = 1379599982,
+			["version"] = 3.03,
+			["faction"] = "Horde",
+			["tasks.compactDB"] = 1379599982,
+			["wealth"] = 44300093,
+			["tasks.prunePostedDB"] = 1379599982,
+			["mailbox"] = {
+			},
+		},
+	},
+	["configator.top"] = 764.9999389648438,
+	["configator.left"] = 560.0000610351563,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

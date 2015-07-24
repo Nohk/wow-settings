@@ -1,0 +1,12 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profileKeys"] = {
+		["Schakalakaa - Thrall"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Thrall"] = {
+			["time"] = 10,
+			["scanData"] = "",
+		},
+	},
+}

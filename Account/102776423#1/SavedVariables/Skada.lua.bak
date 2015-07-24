@@ -1,0 +1,10 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Nunae - Thrall"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

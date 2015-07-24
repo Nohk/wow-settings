@@ -1,0 +1,6 @@
+ZygorGuidesViewer: disabled
+LittleWigs: enabled
+MogIt: enabled
+Clique: enabled
+BigWigs: enabled
+AffDots: disabled
